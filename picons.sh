@@ -1323,7 +1323,6 @@ ln -s tv.canal+.png tv.4468_1F40_13E_820000.uid
 ln -s tv.canal+.png tv.2009_430_1_C00000.uid
 ln -s tv.canal+.png tv.200C_430_1_C00000.uid
 ln -s tv.canal+.png tv.201D_430_1_C00000.uid
-ln -s tv.canal+.png tv.76C0_40E_1_C00000.uid
 ln -s tv.canal+.png tv.2031_430_1_C00000.uid
 
 # tv.canal+130-es.png
@@ -1337,6 +1336,8 @@ ln -s tv.canal+1hd-es.png tv.74D5_3F8_1_C00000.uid
 ln -s tv.canal+1hd-es.png tv.74CC_3F8_1_C00000.uid
 
 # tv.canal+1-es.png
+# 19.2E
+ln -s tv.canal+1-es.png tv.76C0_40E_1_C00000.uid
 
 # tv.canal+2hd-es.png
 # 19.2E
@@ -4344,6 +4345,10 @@ ln -s tv.iconcerts.png tv.DAE_16A8_9C_5A0000.uid
 # 23.5E
 ln -s tv.iconcerts.png tv.5157_C8B_3_EB0000.uid
 ln -s tv.iconcerts.png tv.5158_C8B_3_EB0000.uid
+
+# tv.ictimaitv.png
+# 13.0E
+ln -s tv.ictimaitv.png tv.1E3_1964_13E_820000.uid
 
 # tv.inforegiotv.png
 
