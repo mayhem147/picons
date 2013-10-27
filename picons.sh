@@ -1321,7 +1321,6 @@ ln -s tv.canal+.png tv.12E3_2E7C_13E_820000.uid
 ln -s tv.canal+.png tv.4468_1F40_13E_820000.uid
 # 19.2E
 ln -s tv.canal+.png tv.2009_430_1_C00000.uid
-ln -s tv.canal+.png tv.200C_430_1_C00000.uid
 ln -s tv.canal+.png tv.201D_430_1_C00000.uid
 ln -s tv.canal+.png tv.2031_430_1_C00000.uid
 
@@ -1531,6 +1530,7 @@ ln -s tv.canal+sport-fr.png tv.12E5_2E7C_13E_820000.uid
 # 19.2E
 ln -s tv.canal+sport-fr.png tv.2024_430_1_C00000.uid
 ln -s tv.canal+sport-fr.png tv.2020_430_1_C00000.uid
+ln -s tv.canal+sport-fr.png tv.200C_430_1_C00000.uid
 
 # tv.canal+sporthd-fr.png
 # 19.2E
@@ -3998,8 +3998,6 @@ ln -s tv.gulli.png tv.2219_44C_1_C00000.uid
 ln -s tv.gutelaunetv.png tv.4EF2_21FC_9C_5A0000.uid
 
 # tv.greatesthitstv.png
-# 28.2E
-ln -s tv.greatesthitstv.png tv.CB2A_907_2_11A0000.uid
 
 # tv.gxt.png
 # 13.0E
@@ -4753,6 +4751,10 @@ ln -s tv.kanalivoulis.png tv.180_1C84_13E_820000.uid
 # tv.kbsworldhd.png
 # 13.0E
 ln -s tv.kbsworldhd.png tv.7D7_22C4_13E_820000.uid
+
+# tv.kentrontv.png
+# 13.0E
+ln -s tv.kentrontv.png tv.134B_33F4_13E_820000.uid
 
 # tv.ketnet.png
 
@@ -5509,22 +5511,30 @@ ln -s tv.mtv.png tv.76CC_2C0_600_7120000.uid
 # tv.mtvhd.png
 # 9.0E
 ln -s tv.mtvhd.png tv.41C_4_AA_5A0000.uid
-# 19.2E
-ln -s tv.mtvhd.png tv.1F44_42E_1_C00000.uid
-ln -s tv.mtvhd.png tv.1F4E_42E_1_C00000.uid
 # 28.2E
 ln -s tv.mtvhd.png tv.EF7_7E9_2_11A0000.uid
 ln -s tv.mtvhd.png tv.F40_7E4_2_11A0000.uid
 
-# tv.mtvbase.png
+# tv.mtvhd-fr.png
 # 19.2E
-ln -s tv.mtvbase.png tv.6FF5_42A_1_C00000.uid
+ln -s tv.mtvhd-fr.png tv.1F44_42E_1_C00000.uid
+ln -s tv.mtvhd-fr.png tv.1F4E_42E_1_C00000.uid
+
+# tv.mtvbase.png
 # 28.2E
 ln -s tv.mtvbase.png tv.1B5F_7DA_2_11A0000.uid
 
 # tv.mtvbasehd.png
 # 19.2E
 ln -s tv.mtvbasehd.png tv.1F41_42E_1_C00000.uid
+
+# tv.mtvbase-fr.png
+# 19.2E
+ln -s tv.mtvbase-fr.png tv.6FF5_42A_1_C00000.uid
+
+# tv.mtvbasehd-fr.png
+# 19.2E
+ln -s tv.mtvbasehd-fr.png tv.1F4B_42E_1_C00000.uid
 
 # tv.mtvbrandnew.png
 # 13.0E
@@ -5556,10 +5566,15 @@ ln -s tv.mtvhits.png tv.6FEE_42A_1_C00000.uid
 ln -s tv.mtvhits.png tv.6FF8_42A_1_C00000.uid
 
 # tv.mtvidol.png
+
+# tv.mtvidol-fr.png
 # 19.2E
-ln -s tv.mtvidol.png tv.7003_436_1_C00000.uid
-ln -s tv.mtvidol.png tv.1F43_42E_1_C00000.uid # HD
-ln -s tv.mtvidol.png tv.1F4D_42E_1_C00000.uid # HD
+ln -s tv.mtvidol-fr.png tv.7003_436_1_C00000.uid
+
+# tv.mtvidolhd-fr.png
+# 19.2E
+ln -s tv.mtvidolhd-fr.png tv.1F43_42E_1_C00000.uid
+ln -s tv.mtvidolhd-fr.png tv.1F4D_42E_1_C00000.uid
 
 # tv.mtvmusic.png
 # 13.0E
@@ -5597,10 +5612,15 @@ ln -s tv.mtvplus1.png tv.1B5D_7DA_2_11A0000.uid
 # tv.mtvpulse.png
 # 13.0E
 ln -s tv.mtvpulse.png tv.2D13_2774_FBFF_820000.uid
+
+# tv.mtvpulse-fr.png
 # 19.2E
-ln -s tv.mtvpulse.png tv.7002_436_1_C00000.uid
-ln -s tv.mtvpulse.png tv.1F42_42E_1_C00000.uid # HD
-ln -s tv.mtvpulse.png tv.1F4C_42E_1_C00000.uid # HD
+ln -s tv.mtvpulse-fr.png tv.7002_436_1_C00000.uid
+
+# tv.mtvpulsehd-fr.png
+# 19.2E
+ln -s tv.mtvpulsehd-fr.png tv.1F42_42E_1_C00000.uid
+ln -s tv.mtvpulsehd-fr.png tv.1F4C_42E_1_C00000.uid
 
 # tv.mtvrocks.png
 # 13.0E
@@ -6030,6 +6050,10 @@ ln -s tv.noortv.png tv.32F_3BC4_13E_820000.uid
 ln -s tv.noortv.png tv.D745_81A_2_11A0000.uid
 
 # tv.nostalgienet.png
+
+# tv.nowmusic.png
+# 28.2E
+ln -s tv.nowmusic.png tv.CB2A_907_2_11A0000.uid
 
 # tv.nrj12.png
 # 13.0E
