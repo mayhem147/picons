@@ -4862,6 +4862,10 @@ ln -s tv.kuchnia+hd.png tv.379D_44C_13E_820000.uid
 # 4.8E
 ln -s tv.kunskapskanalen.png tv.139C_7_56_300000.uid
 
+# tv.kurdsat.png
+# 13.0E
+ln -s tv.kurdsat.png tv.43A6.2CEC.13E_820000.uid
+
 # tv.kztv.png
 # 13.0E
 ln -s tv.kztv.png tv.445F_1F40_13E_820000.uid
