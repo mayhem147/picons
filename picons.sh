@@ -513,6 +513,10 @@ ln -s tv.artehd.png tv.246C_440_1_C00000.uid
 ln -s tv.artehd.png tv.283E_3FB_1_C00000.uid
 ln -s tv.artehd.png tv.2480_440_1_C00000.uid
 
+# tv.arturo.png
+# 13.0E
+ln -s tv.arturo.png tv.7DB_22C4_13E_820000.uid
+
 # tv.arynews.png
 # 28.2E
 ln -s tv.arynews.png tv.C486_964_2_11A0000.uid
@@ -5859,7 +5863,8 @@ ln -s tv.ned1.png tv.FAB_451_35_C00000.uid
 
 # tv.ned1hd.png
 # 23.5E
-ln -s tv.ned1hd.png tv.1B7B_C88_3_EB0000.uid
+ln -s tv.ned1hd.png tv.1B7B_C88_3_EB0000.uid # REMOVE AFTER 15/11/2013
+ln -s tv.ned1hd.png tv.5225_C99_3_EB0000.uid
 
 # tv.ned2.png
 # 19.2E
@@ -8769,6 +8774,18 @@ ln -s tv.sportdigital.png tv.3B_F_85_C00000.uid
 # 13.0E
 ln -s tv.sportklub.png tv.DC0_2D50_13E_820000.uid
 
+# tv.sportltuno.png
+# 13.0E
+ln -s tv.sportltuno.png tv.7DC_22C4_13E_820000.uid
+
+# tv.sportltdue.png
+# 13.0E
+ln -s tv.sportltdue.png tv.7DD_22C4_13E_820000.uid
+
+# tv.sportlttre.png
+# 13.0E
+ln -s tv.sportlttre.png tv.7DE_22C4_13E_820000.uid
+
 # tv.sportmania.png
 # 19.2E
 ln -s tv.sportmania.png tv.76C4_40E_1_C00000.uid
@@ -8996,6 +9013,8 @@ ln -s tv.syfy.png tv.4E86_2134_9C_5A0000.uid
 ln -s tv.syfy.png tv.7796_424_1_C00000.uid
 ln -s tv.syfy.png tv.24_11_85_C00000.uid
 ln -s tv.syfy.png tv.1901_3FA_1_C00000.uid
+# 23.5E
+ln -s tv.syfy.png tv.5156_C8B_3_EB0000.uid
 # 28.2E
 ln -s tv.syfy.png tv.D2FF_96C_2_11A0000.uid
 ln -s tv.syfy.png tv.CC1A_8FF_2_11A0000.uid
