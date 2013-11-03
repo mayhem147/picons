@@ -7731,18 +7731,6 @@ ln -s tv.sky3d-it.png tv.37A9_14B4_FBFF_820000.uid
 ln -s tv.sky3d-it.png tv.37AB_14B4_FBFF_820000.uid
 ln -s tv.sky3d-it.png tv.37AC_14B4_FBFF_820000.uid
 
-# tv.skyondemand-gb.png
-# 28.2E
-ln -s tv.skyondemand-gb.png tv.F36_968_2_11A0000.uid
-ln -s tv.skyondemand-gb.png tv.F37_968_2_11A0000.uid
-ln -s tv.skyondemand-gb.png tv.1034_968_2_11A0000.uid
-ln -s tv.skyondemand-gb.png tv.1034_7E0_2_11A0000.uid
-ln -s tv.skyondemand-gb.png tv.1034_7F7_2_11A0000.uid
-ln -s tv.skyondemand-gb.png tv.1034_7F3_2_11A0000.uid
-ln -s tv.skyondemand-gb.png tv.F3A_7F3_2_11A0000.uid
-ln -s tv.skyondemand-gb.png tv.F38_7D5_2_11A0000.uid
-ln -s tv.skyondemand-gb.png tv.F39_7F7_2_11A0000.uid
-
 # tv.skyaction-de.png
 # 19.2E
 ln -s tv.skyaction-de.png tv.9_2_85_C00000.uid
@@ -7750,6 +7738,17 @@ ln -s tv.skyaction-de.png tv.9_2_85_C00000.uid
 # tv.skyactionhd-de.png
 # 19.2E
 ln -s tv.skyactionhd-de.png tv.6A_A_85_C00000.uid
+
+# tv.skyanytimehd-gb.png
+# 28.2E
+ln -s tv.skyanytimehd-gb.png tv.F3B_7F0_2_11A0000.uid
+ln -s tv.skyanytimehd-gb.png tv.F39_7F7_2_11A0000.uid
+ln -s tv.skyanytimehd-gb.png tv.F3A_7F3_2_11A0000.uid
+
+# tv.skyanytime-gb.png
+# 28.2E
+ln -s tv.skyanytime-gb.png tv.F36_7E9_2_11A0000.uid
+ln -s tv.skyanytime-gb.png tv.F37_7E9_2_11A0000.uid
 
 # tv.skyarts1hd-gb.png
 # 28.2E
