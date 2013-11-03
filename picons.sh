@@ -318,7 +318,7 @@ ln -s tv.alfayhaa.png tv.125E_3458_13E_820000.uid
 # tv.alibi.png
 # 28.2E
 ln -s tv.alibi.png tv.1979_7D6_2_11A0000.uid
-ln -s tv.alibi.png tv.D338_A29_2_11A0000.uid
+ln -s tv.alibi.png tv.1DE8_7DF_2_11A0000.uid
 
 # tv.alibihd.png
 # 28.2E
@@ -519,12 +519,11 @@ ln -s tv.arturo.png tv.7DB_22C4_13E_820000.uid
 
 # tv.arynews.png
 # 28.2E
-ln -s tv.arynews.png tv.C486_964_2_11A0000.uid
 ln -s tv.arynews.png tv.D101_90C_2_11A0000.uid
 
 # tv.aryentertainment.png
 # 28.2E
-ln -s tv.aryentertainment.png tv.C4EF_965_2_11A0000.uid
+ln -s tv.aryentertainment.png tv.C4EF_81B_2_11A0000.uid
 
 # tv.aryqtv.png
 # 28.2E
@@ -6766,7 +6765,7 @@ ln -s tv.premiersports.png tv.C7A9_821_2_11A0000.uid
 
 # tv.premiersportsextra.png
 # 28.2E
-ln -s tv.premiersportsextra.png tv.C7AB_96C_2_11A0000.uid
+ln -s tv.premiersportsextra.png tv.C7AB_821_2_11A0000.uid
 
 # tv.pricedrop.png
 # 28.2E
@@ -8648,7 +8647,7 @@ ln -s tv.sonytv.png tv.CB25_907_2_11A0000.uid
 
 # tv.sonytvplus1.png
 # 28.2E
-ln -s tv.sonytvplus1.png tv.D435_A2C_2_11A0000.uid
+ln -s tv.sonytvplus1.png tv.D017_909_2_11A0000.uid
 
 # tv.sonytvasia.png
 # 28.2E
@@ -10912,7 +10911,7 @@ ln -s tv.zeenews.png tv.C517_965_2_11A0000.uid
 
 # tv.zeepunjabi.png
 # 28.2E
-ln -s tv.zeepunjabi.png tv.C52B_965_2_11A0000.uid
+ln -s tv.zeepunjabi.png tv.C52B_81B_2_11A0000.uid
 
 # tv.zeetv.png
 # 9.0E
