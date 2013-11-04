@@ -752,7 +752,6 @@ ln -s tv.brunstadtv.png tv.1201_14_46_7120000.uid
 
 # tv.bbcalba.png
 # 28.2E
-ln -s tv.bbcalba.png tv.2875_800_2_11A0000.uid
 ln -s tv.bbcalba.png tv.1917_7FF_2_11A0000.uid
 
 # tv.bbcarabic.png
@@ -773,7 +772,6 @@ ln -s tv.bbcentertainment.png tv.44F_19_46_7120000.uid
 
 # tv.bbcfour.png
 # 28.2E
-ln -s tv.bbcfour.png tv.1910_7FF_2_11A0000.uid
 ln -s tv.bbcfour.png tv.18AC_7FD_2_11A0000.uid
 
 # tv.bbchd.png
@@ -801,8 +799,6 @@ ln -s tv.bbclifestyle.png tv.9C5_4_46_7120000.uid
 
 # tv.bbcnews.png
 # 28.2E
-ln -s tv.bbcnews.png tv.1A30_7DD_2_11A0000.uid
-ln -s tv.bbcnews.png tv.1905_7FF_2_11A0000.uid
 ln -s tv.bbcnews.png tv.2876_800_2_11A0000.uid
 
 # tv.bbcone.png
@@ -810,7 +806,6 @@ ln -s tv.bbcnews.png tv.2876_800_2_11A0000.uid
 ln -s tv.bbcone.png tv.189D_7FD_2_11A0000.uid
 ln -s tv.bbcone.png tv.18C5_7FD_2_11A0000.uid
 ln -s tv.bbcone.png tv.18CF_7FD_2_11A0000.uid
-ln -s tv.bbcone.png tv.18D9_7FD_2_11A0000.uid
 ln -s tv.bbcone.png tv.283D_7FE_2_11A0000.uid
 ln -s tv.bbcone.png tv.283F_7FE_2_11A0000.uid
 ln -s tv.bbcone.png tv.2841_7FE_2_11A0000.uid
@@ -826,7 +821,6 @@ ln -s tv.bbcone.png tv.2873_800_2_11A0000.uid
 ln -s tv.bbcone.png tv.2874_800_2_11A0000.uid
 ln -s tv.bbcone.png tv.2879_800_2_11A0000.uid
 ln -s tv.bbcone.png tv.1947_7FF_2_11A0000.uid
-ln -s tv.bbcone.png tv.18F7_7FD_2_11A0000.uid
 
 # tv.bbconehd.png
 # 28.2E
@@ -834,20 +828,13 @@ ln -s tv.bbconehd.png tv.22C5_80D_2_11A0000.uid
 ln -s tv.bbconehd.png tv.22CF_80D_2_11A0000.uid
 ln -s tv.bbconehd.png tv.1B1D_802_2_11A0000.uid
 ln -s tv.bbconehd.png tv.1B1F_802_2_11A0000.uid
-ln -s tv.bbconehd.png tv.1B21_802_2_11A0000.uid
-
-# tv.bbcprime.png
-# 13.0E
-ln -s tv.bbcprime.png tv.1389_ED9_13E_820000.uid
 
 # tv.bbcparliament.png
 # 28.2E
-ln -s tv.bbcparliament.png tv.1A31_7DD_2_11A0000.uid
 ln -s tv.bbcparliament.png tv.2843_7FE_2_11A0000.uid
 
 # tv.bbcpersian.png
 # 13.0E
-ln -s tv.bbcpersian.png tv.2316_238C_13E_820000.uid
 ln -s tv.bbcpersian.png tv.1C6B_1C20_13E_820000.uid
 
 # tv.bbcredbuttonhd.png
@@ -860,8 +847,6 @@ ln -s tv.bbcredbutton.png tv.18F6_7FD_2_11A0000.uid
 
 # tv.bbcthree.png
 # 28.2E
-ln -s tv.bbcthree.png tv.18AB_7FD_2_11A0000.uid
-ln -s tv.bbcthree.png tv.18AF_7FD_2_11A0000.uid
 ln -s tv.bbcthree.png tv.286F_800_2_11A0000.uid
 
 # tv.bbctwo.png
@@ -870,7 +855,6 @@ ln -s tv.bbctwo.png tv.189E_7FD_2_11A0000.uid
 ln -s tv.bbctwo.png tv.2848_7FE_2_11A0000.uid
 ln -s tv.bbctwo.png tv.1916_7FF_2_11A0000.uid
 ln -s tv.bbctwo.png tv.287A_800_2_11A0000.uid
-ln -s tv.bbctwo.png tv.18A5_7FD_2_11A0000.uid
 
 # tv.bbctwohd.png
 # 28.2E
@@ -1656,7 +1640,6 @@ ln -s tv.cazaypesca.png tv.772B_416_1_C00000.uid
 
 # tv.cbbc.png
 # 28.2E
-ln -s tv.cbbc.png tv.18AD_7FD_2_11A0000.uid
 ln -s tv.cbbc.png tv.2870_800_2_11A0000.uid
 
 # tv.cbctv.png
@@ -1667,7 +1650,6 @@ ln -s tv.cbctv.png tv.1264_3458_13E_820000.uid
 # 13.0E
 ln -s tv.cbeebies.png tv.390D_32C8_13E_820000.uid
 # 28.2E
-ln -s tv.cbeebies.png tv.1912_7FF_2_11A0000.uid
 ln -s tv.cbeebies.png tv.18AE_7FD_2_11A0000.uid
 
 # tv.cbsaction.png
@@ -1768,12 +1750,10 @@ ln -s tv.channel4.png tv.23FD_7F9_2_11A0000.uid
 ln -s tv.channel4.png tv.23FE_7F9_2_11A0000.uid
 ln -s tv.channel4.png tv.23FF_7F9_2_11A0000.uid
 ln -s tv.channel4.png tv.2400_7F9_2_11A0000.uid
-ln -s tv.channel4.png tv.2441_7F9_2_11A0000.uid
 ln -s tv.channel4.png tv.2F03_7F8_2_11A0000.uid
 
 # tv.channel4hd.png
 # 28.2E
-ln -s tv.channel4hd.png tv.F23_7D5_2_11A0000.uid
 ln -s tv.channel4hd.png tv.52D0_814_2_11A0000.uid
 
 # tv.channel4plus1
@@ -1840,7 +1820,6 @@ ln -s tv.cherie25.png tv.6F87_42C_1_C00000.uid
 # tv.childrenitv.png
 # 28.2E
 ln -s tv.childrenitv.png tv.2757_7FC_2_11A0000.uid
-ln -s tv.childrenitv.png tv.275F_7FC_2_11A0000.uid
 
 # tv.childrussia.png
 # 13.0E
@@ -4420,8 +4399,6 @@ ln -s tv.itele.png tv.201E_430_1_C00000.uid
 
 # tv.itv1.png
 # 28.2E
-ln -s tv.itv1.png tv.3F7_805_2_11A0000.uid
-ln -s tv.itv1.png tv.274C_7FC_2_11A0000.uid
 ln -s tv.itv1.png tv.2760_7FC_2_11A0000.uid
 ln -s tv.itv1.png tv.276A_7FC_2_11A0000.uid
 ln -s tv.itv1.png tv.2774_7FC_2_11A0000.uid
@@ -4431,42 +4408,28 @@ ln -s tv.itv1.png tv.2738_801_2_11A0000.uid
 ln -s tv.itv1.png tv.2788_805_2_11A0000.uid
 ln -s tv.itv1.png tv.2792_805_2_11A0000.uid
 ln -s tv.itv1.png tv.279C_805_2_11A0000.uid
-ln -s tv.itv1.png tv.279D_805_2_11A0000.uid
 ln -s tv.itv1.png tv.27A6_805_2_11A0000.uid
 ln -s tv.itv1.png tv.27B0_805_2_11A0000.uid
-ln -s tv.itv1.png tv.1D1A_7DE_2_11A0000.uid
-ln -s tv.itv1.png tv.1D1B_7DE_2_11A0000.uid
-ln -s tv.itv1.png tv.2F44_7F4_2_11A0000.uid
 ln -s tv.itv1.png tv.2F45_7F4_2_11A0000.uid
 ln -s tv.itv1.png tv.2F4E_7F4_2_11A0000.uid
 ln -s tv.itv1.png tv.2F58_7F4_2_11A0000.uid
 ln -s tv.itv1.png tv.2F6C_7F4_2_11A0000.uid
-ln -s tv.itv1.png tv.271A_801_2_11A0000.uid
-ln -s tv.itv1.png tv.271B_801_2_11A0000.uid
-ln -s tv.itv1.png tv.2742_801_2_11A0000.uid
 ln -s tv.itv1.png tv.50DC_80F_2_11A0000.uid
 ln -s tv.itv1.png tv.50DD_80F_2_11A0000.uid
 ln -s tv.itv1.png tv.27D8_806_2_11A0000.uid
 
 # tv.itv1hd.png
 # 28.2E
-ln -s tv.itv1hd.png tv.290E_90B_3B_11A0000.uid
 ln -s tv.itv1hd.png tv.F0B_808_2_11A0000.uid
 ln -s tv.itv1hd.png tv.F0C_808_2_11A0000.uid
 ln -s tv.itv1hd.png tv.2710_801_2_11A0000.uid
-ln -s tv.itv1hd.png tv.2711_801_2_11A0000.uid
-ln -s tv.itv1hd.png tv.1D38_7DE_2_11A0000.uid
-ln -s tv.itv1hd.png tv.1D39_7DE_2_11A0000.uid
-ln -s tv.itv1hd.png tv.1B1E_802_2_11A0000.uid
 ln -s tv.itv1hd.png tv.2F62_7F4_2_11A0000.uid
 
 # tv.itv1plus1.png
 # 28.2E
 ln -s tv.itv1plus1.png tv.27AB_805_2_11A0000.uid
 ln -s tv.itv1plus1.png tv.280F_806_2_11A0000.uid
-ln -s tv.itv1plus1.png tv.2819_806_2_11A0000.uid
 ln -s tv.itv1plus1.png tv.27A1_805_2_11A0000.uid
-ln -s tv.itv1plus1.png tv.1D29_7DE_2_11A0000.uid
 ln -s tv.itv1plus1.png tv.5109_80F_2_11A0000.uid
 ln -s tv.itv1plus1.png tv.50EB_80F_2_11A0000.uid
 ln -s tv.itv1plus1.png tv.50FF_80F_2_11A0000.uid
@@ -7868,12 +7831,8 @@ ln -s tv.skycalcio-it.png tv.2C2F_251C_FBFF_820000.uid
 # tv.skycinema1hd-it.png
 
 # tv.skycinema007-it.png
-# 13.0E
-ln -s tv.skycinema007-it.png tv.2DCC_1A2C_FBFF_820000.uid
 
 # tv.skycinema007hd-it.png
-# 13.0E
-ln -s tv.skycinema007hd-it.png tv.106C_2008_FBFF_820000.uid
 
 # tv.skycinemaclassicshd-it.png
 # 13.0E
@@ -7946,6 +7905,14 @@ ln -s tv.skycinemahits-de.png tv.29_3_85_C00000.uid
 # tv.skycinemahitshd-de.png
 # 19.2E
 ln -s tv.skycinemahitshd-de.png tv.6B_C_85_C00000.uid
+
+# tv.skycinemahits-it.png
+# 13.0E
+ln -s tv.skycinemahits-it.png tv.2DCC_1A2C_FBFF_820000.uid
+
+# tv.skycinemahitshd-it.png
+# 13.0E
+ln -s tv.skycinemahitshd-it.png tv.106C_2008_FBFF_820000.uid
 
 # tv.skycinema-it.png
 # 13.0E
@@ -8044,51 +8011,14 @@ ln -s tv.skymeteo24-it.png tv.10E1_1644_FBFF_820000.uid
 # tv.skymoviesboxofficehd-gb.png
 # 28.2E
 ln -s tv.skymoviesboxofficehd-gb.png tv.F27_7F0_2_11A0000.uid
-ln -s tv.skymoviesboxofficehd-gb.png tv.EE3_7D5_2_11A0000.uid
-ln -s tv.skymoviesboxofficehd-gb.png tv.F27_7F2_2_11A0000.uid
-ln -s tv.skymoviesboxofficehd-gb.png tv.EE3_7EC_2_11A0000.uid
-ln -s tv.skymoviesboxofficehd-gb.png tv.EE3_7F2_2_11A0000.uid
 
 # tv.skymoviesboxoffice-gb.png
 # 28.2E
-ln -s tv.skymoviesboxoffice-gb.png tv.132A_963_2_11A0000.uid
-ln -s tv.skymoviesboxoffice-gb.png tv.1022_963_2_11A0000.uid
-ln -s tv.skymoviesboxoffice-gb.png tv.1212_7DB_2_11A0000.uid
-ln -s tv.skymoviesboxoffice-gb.png tv.1213_7DB_2_11A0000.uid
-ln -s tv.skymoviesboxoffice-gb.png tv.1214_7DB_2_11A0000.uid
-ln -s tv.skymoviesboxoffice-gb.png tv.1215_7DB_2_11A0000.uid
-ln -s tv.skymoviesboxoffice-gb.png tv.1216_7DB_2_11A0000.uid
-ln -s tv.skymoviesboxoffice-gb.png tv.1276_7DB_2_11A0000.uid
-ln -s tv.skymoviesboxoffice-gb.png tv.1277_7DB_2_11A0000.uid
-ln -s tv.skymoviesboxoffice-gb.png tv.1278_7DB_2_11A0000.uid
-ln -s tv.skymoviesboxoffice-gb.png tv.1279_7DB_2_11A0000.uid
-ln -s tv.skymoviesboxoffice-gb.png tv.127A_7DB_2_11A0000.uid
-ln -s tv.skymoviesboxoffice-gb.png tv.11B1_7DB_2_11A0000.uid
-ln -s tv.skymoviesboxoffice-gb.png tv.11B2_7DB_2_11A0000.uid
-ln -s tv.skymoviesboxoffice-gb.png tv.12DA_7DB_2_11A0000.uid
-ln -s tv.skymoviesboxoffice-gb.png tv.12DB_7DB_2_11A0000.uid
-ln -s tv.skymoviesboxoffice-gb.png tv.1019_7DB_2_11A0000.uid
-ln -s tv.skymoviesboxoffice-gb.png tv.101A_7DB_2_11A0000.uid
-ln -s tv.skymoviesboxoffice-gb.png tv.12DC_968_2_11A0000.uid
-ln -s tv.skymoviesboxoffice-gb.png tv.12DD_968_2_11A0000.uid
-ln -s tv.skymoviesboxoffice-gb.png tv.12DE_968_2_11A0000.uid
-ln -s tv.skymoviesboxoffice-gb.png tv.101A_968_2_11A0000.uid
-ln -s tv.skymoviesboxoffice-gb.png tv.133E_7EF_2_11A0000.uid
-ln -s tv.skymoviesboxoffice-gb.png tv.133F_7EF_2_11A0000.uid
-ln -s tv.skymoviesboxoffice-gb.png tv.101A_7EF_2_11A0000.uid
-ln -s tv.skymoviesboxoffice-gb.png tv.1340_966_2_11A0000.uid
-ln -s tv.skymoviesboxoffice-gb.png tv.13A5_966_2_11A0000.uid
-ln -s tv.skymoviesboxoffice-gb.png tv.14AB_966_2_11A0000.uid
-ln -s tv.skymoviesboxoffice-gb.png tv.15AE_966_2_11A0000.uid
-ln -s tv.skymoviesboxoffice-gb.png tv.15AF_966_2_11A0000.uid
-ln -s tv.skymoviesboxoffice-gb.png tv.15B0_966_2_11A0000.uid
-ln -s tv.skymoviesboxoffice-gb.png tv.15B1_966_2_11A0000.uid
-ln -s tv.skymoviesboxoffice-gb.png tv.15B4_966_2_11A0000.uid
-ln -s tv.skymoviesboxoffice-gb.png tv.15B5_966_2_11A0000.uid
-ln -s tv.skymoviesboxoffice-gb.png tv.10E9_966_2_11A0000.uid
-ln -s tv.skymoviesboxoffice-gb.png tv.1019_966_2_11A0000.uid
-ln -s tv.skymoviesboxoffice-gb.png tv.101A_966_2_11A0000.uid
-ln -s tv.skymoviesboxoffice-gb.png tv.101B_966_2_11A0000.uid
+ln -s tv.skymoviesboxoffice-gb.png tv.10E6_7DC_2_11A0000.uid
+ln -s tv.skymoviesboxoffice-gb.png tv.10E7_7DC_2_11A0000.uid
+ln -s tv.skymoviesboxoffice-gb.png tv.10E8_7DC_2_11A0000.uid
+ln -s tv.skymoviesboxoffice-gb.png tv.10E9_7EF_2_11A0000.uid
+ln -s tv.skymoviesboxoffice-gb.png tv.10EA_7DC_2_11A0000.uid
 ln -s tv.skymoviesboxoffice-gb.png tv.114A_7DC_2_11A0000.uid
 ln -s tv.skymoviesboxoffice-gb.png tv.114B_7DC_2_11A0000.uid
 ln -s tv.skymoviesboxoffice-gb.png tv.114C_7DC_2_11A0000.uid
@@ -8097,21 +8027,29 @@ ln -s tv.skymoviesboxoffice-gb.png tv.114E_7DC_2_11A0000.uid
 ln -s tv.skymoviesboxoffice-gb.png tv.11AE_7DC_2_11A0000.uid
 ln -s tv.skymoviesboxoffice-gb.png tv.11AF_7DC_2_11A0000.uid
 ln -s tv.skymoviesboxoffice-gb.png tv.11B0_7DC_2_11A0000.uid
-ln -s tv.skymoviesboxoffice-gb.png tv.15B2_7DC_2_11A0000.uid
-ln -s tv.skymoviesboxoffice-gb.png tv.15B3_7DC_2_11A0000.uid
-ln -s tv.skymoviesboxoffice-gb.png tv.10E6_7DC_2_11A0000.uid
-ln -s tv.skymoviesboxoffice-gb.png tv.10E7_7DC_2_11A0000.uid
-ln -s tv.skymoviesboxoffice-gb.png tv.10E8_7DC_2_11A0000.uid
-ln -s tv.skymoviesboxoffice-gb.png tv.10EA_7DC_2_11A0000.uid
-ln -s tv.skymoviesboxoffice-gb.png tv.1019_7DC_2_11A0000.uid
-ln -s tv.skymoviesboxoffice-gb.png tv.101B_7DC_2_11A0000.uid
-ln -s tv.skymoviesboxoffice-gb.png tv.D7C1_A35_2_11A0000.uid
-ln -s tv.skymoviesboxoffice-gb.png tv.102D_7D5_2_11A0000.uid
-ln -s tv.skymoviesboxoffice-gb.png tv.102D_7F0_2_11A0000.uid
-ln -s tv.skymoviesboxoffice-gb.png tv.12DD_961_2_11A0000.uid
-ln -s tv.skymoviesboxoffice-gb.png tv.12DE_961_2_11A0000.uid
-ln -s tv.skymoviesboxoffice-gb.png tv.133E_961_2_11A0000.uid
-ln -s tv.skymoviesboxoffice-gb.png tv.12DC_961_2_11A0000.uid
+ln -s tv.skymoviesboxoffice-gb.png tv.11B1_7D2_2_11A0000.uid
+ln -s tv.skymoviesboxoffice-gb.png tv.11B2_7D2_2_11A0000.uid
+ln -s tv.skymoviesboxoffice-gb.png tv.1212_7D2_2_11A0000.uid
+ln -s tv.skymoviesboxoffice-gb.png tv.1213_7D2_2_11A0000.uid
+ln -s tv.skymoviesboxoffice-gb.png tv.1214_7D2_2_11A0000.uid
+ln -s tv.skymoviesboxoffice-gb.png tv.1215_7D2_2_11A0000.uid
+ln -s tv.skymoviesboxoffice-gb.png tv.1216_7D2_2_11A0000.uid
+ln -s tv.skymoviesboxoffice-gb.png tv.1276_7D2_2_11A0000.uid
+ln -s tv.skymoviesboxoffice-gb.png tv.1277_7D2_2_11A0000.uid
+ln -s tv.skymoviesboxoffice-gb.png tv.1278_7D2_2_11A0000.uid
+ln -s tv.skymoviesboxoffice-gb.png tv.1279_7D2_2_11A0000.uid
+ln -s tv.skymoviesboxoffice-gb.png tv.127A_7D2_2_11A0000.uid
+ln -s tv.skymoviesboxoffice-gb.png tv.12DA_7D2_2_11A0000.uid
+ln -s tv.skymoviesboxoffice-gb.png tv.12DB_7D2_2_11A0000.uid
+ln -s tv.skymoviesboxoffice-gb.png tv.12DC_7DC_2_11A0000.uid
+ln -s tv.skymoviesboxoffice-gb.png tv.12DD_7EF_2_11A0000.uid
+ln -s tv.skymoviesboxoffice-gb.png tv.12DE_7EF_2_11A0000.uid
+ln -s tv.skymoviesboxoffice-gb.png tv.133E_7EF_2_11A0000.uid
+ln -s tv.skymoviesboxoffice-gb.png tv.13A5_7EF_2_11A0000.uid
+ln -s tv.skymoviesboxoffice-gb.png tv.15AE_7EF_2_11A0000.uid
+ln -s tv.skymoviesboxoffice-gb.png tv.15AF_7EF_2_11A0000.uid
+ln -s tv.skymoviesboxoffice-gb.png tv.132A_807_2_11A0000.uid # Events
+ln -s tv.skymoviesboxoffice-gb.png tv.14AB_7EF_2_11A0000.uid # Preview
 
 # tv.skymoviesactionhd-gb.png
 # 28.2E
