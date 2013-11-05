@@ -4711,6 +4711,8 @@ ln -s tv.kanalivoulis.png tv.180_1C84_13E_820000.uid
 # tv.karaokechannel.png
 
 # tv.kazakhtv.png
+# 13.0E
+ln -s tv.kazakhtv.png tv.1C34_1C20_13E_820000.uid
 
 # tv.kbsworld.png
 
