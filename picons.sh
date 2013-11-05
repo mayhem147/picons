@@ -873,10 +873,6 @@ ln -s tv.bbcworldnews.png tv.2742_402_1_C00000.uid
 ln -s tv.bbcworldnews.png tv.3E9_31_46_7120000.uid
 
 # tv.bbtv.png
-# 28.2E
-ln -s tv.bbtv.png tv.D031_909_2_11A0000.uid
-ln -s tv.bbtv.png tv.CB52_907_2_11A0000.uid
-ln -s tv.bbtv.png tv.D355_81C_2_11A0000.uid
 
 # tv.beateuhsetv.png
 # 19.2E
@@ -3370,8 +3366,6 @@ ln -s tv.fashionbox.png tv.36E5_C8C_3_EB0000.uid
 # tv.fashionone.png
 # 13.0E
 ln -s tv.fashionone.png tv.34BE_3C28_13E_820000.uid
-# 28.2E
-ln -s tv.fashionone.png tv.2938_90B_3B_11A0000.uid
 # 19.2E
 ln -s tv.fashionone.png tv.1263_3F7_1_C00000.uid
 
@@ -8729,8 +8723,6 @@ ln -s tv.sportlttre.png tv.7DE_22C4_13E_820000.uid
 ln -s tv.sportmania.png tv.76C4_40E_1_C00000.uid
 
 # tv.sportxxxgirls.png
-# 28.2E
-ln -s tv.sportxxxgirls.png tv.CB48_907_2_11A0000.uid
 
 # tv.sritv.png
 # 13.0E
