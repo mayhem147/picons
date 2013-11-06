@@ -5969,20 +5969,21 @@ ln -s tv.nickjr.png tv.7602_408_1_C00000.uid
 # 28.2E
 ln -s tv.nickjr.png tv.15BB_804_2_11A0000.uid
 ln -s tv.nickjr.png tv.C790_81F_2_11A0000.uid
-ln -s tv.nickjr.png tv.C791_96B_2_11A0000.uid
 
 # tv.nickjrplus1.png
 # 28.2E
 ln -s tv.nickjrplus1.png tv.C792_81F_2_11A0000.uid
-ln -s tv.nickjrplus1.png tv.C792_96B_2_11A0000.uid
+
+# tv.nickjrpeppa.png
+# 28.2E
+ln -s tv.nickjrpeppa.png tv.C791_81F_2_11A0000.uid
+ln -s tv.nickjrpeppa.png tv.C794_81F_2_11A0000.uid
 
 # tv.nickjr_vh1.png
 # 4.8E
 ln -s tv.nickjr_vh1.png tv.1AE0_12_55_300000.uid
 
 # tv.nickjr2.png
-# 28.2E
-ln -s tv.nickjr2.png tv.C791_81F_2_11A0000.uid
 
 # tv.nicktoons.png
 # 19.2E
