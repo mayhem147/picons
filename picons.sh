@@ -1354,13 +1354,13 @@ ln -s tv.canal+comedia-es.png tv.746D_3F0_1_C00000.uid
 
 # tv.canal+dcine-es.png
 # 19.2E
-ln -s tv.canal+dcine-es.png tv.7615_408_1_C00000.uid
 ln -s tv.canal+dcine-es.png tv.746E_3F0_1_C00000.uid
 
 # tv.canal+dcinehd-es.png
 # 19.2E
 ln -s tv.canal+dcinehd-es.png tv.7502_420_1_C00000.uid
 ln -s tv.canal+dcinehd-es.png tv.750B_420_1_C00000.uid
+ln -s tv.canal+dcinehd-es.png tv.7615_408_1_C00000.uid
 
 # tv.canal+decale-fr.png
 # 19.2E
@@ -3438,6 +3438,10 @@ ln -s tv.filmfourplus1.png tv.2409_7F9_2_11A0000.uid
 # tv.filmfourhd.png
 # 28.2E
 ln -s tv.filmfourhd.png tv.F04_7F0_2_11A0000.uid
+
+# tv.filmontv.png
+# 28.2E
+ln -s tv.filmontv.png tv.CB30_907_2_11A0000.uid
 
 # tv.fishingandhunting.png
 # 23.5E
