@@ -1033,7 +1033,7 @@ C8B_19_46_7120000
 # tv.bluemovie.png
 # 19.2E
 201_4_85_C00000
-79_E_85_C00000 # HD
+79_E_85_C00000
 
 # tv.bluemovie1.png
 # 19.2E
@@ -1514,7 +1514,7 @@ CF7_21_46_7120000
 # tv.canal+toros-es.png
 # 19.2E
 7570_412_1_C00000
-7501_420_1_C00000 # HD
+7501_420_1_C00000
 
 # tv.canal+xtra-es.png
 # 19.2E
@@ -4507,8 +4507,8 @@ D386_81C_2_11A0000
 
 # tv.jone.png
 # 19.2E
-26B2_43E_1_C00000 # HD
-26C6_43E_1_C00000 # HD
+26B2_43E_1_C00000
+26C6_43E_1_C00000
 
 # tv.joiz.png
 # 19.2E
@@ -5759,7 +5759,6 @@ FAB_451_35_C00000
 
 # tv.ned1hd.png
 # 23.5E
-1B7B_C88_3_EB0000 # REMOVE AFTER 15/11/2013
 5225_C99_3_EB0000
 
 # tv.ned2.png
@@ -6342,8 +6341,8 @@ CB88_8FD_2_11A0000
 
 # tv.paramountchannel.png
 # 19.2E
-19CE_444_1_C00000 # HD
-19E2_444_1_C00000 # HD
+19CE_444_1_C00000
+19E2_444_1_C00000
 
 # tv.paramountcomedy.png
 # 19.2E
@@ -6514,8 +6513,8 @@ E28_708_C8_820000
 # tv.planete+thalassa.png
 # 19.2E
 2138_400_1_C00000
-1F4F_42E_1_C00000 # HD
-1F45_42E_1_C00000 # HD
+1F4F_42E_1_C00000
+1F45_42E_1_C00000
 
 # tv.planetkids.png
 # 13.0E
@@ -7985,8 +7984,8 @@ F27_7F0_2_11A0000
 13A5_7EF_2_11A0000
 15AE_7EF_2_11A0000
 15AF_7EF_2_11A0000
-132A_807_2_11A0000 # Events
-14AB_7EF_2_11A0000 # Preview
+132A_807_2_11A0000
+14AB_7EF_2_11A0000
 
 # tv.skymoviesactionhd-gb.png
 # 28.2E
@@ -10372,27 +10371,27 @@ A8C_23_56_300000
 
 # tv.viasatxtra.png
 # 4.8E
-1F40_A_56_300000 # viasatxtra1
-1F4A_A_56_300000 # viasatxtra2
-1F54_A_56_300000 # viasatxtra3
-1F5E_A_56_300000 # viasatxtra4
-1F68_A_56_300000 # viasatxtra5
-1F90_A_56_300000 # viasatxtra6
-1F72_A_56_300000 # viasatxtra7
-1F22_A_56_300000 # viasatxtranhl1
-1F2C_A_56_300000 # viasatxtranhl2
-1F36_A_56_300000 # viasatxtranhl3
-1FD6_A_56_300000 # viasatxtranhl4
-1FE0_A_56_300000 # viasatxtranhl5
-1FEA_A_56_300000 # viasatxtranhl6
-1FF4_A_56_300000 # viasatxtranhl7
-1EDC_A_56_300000 # viasatxtrapremierleague1
-1EE6_A_56_300000 # viasatxtrapremierleague2
-1EF0_A_56_300000 # viasatxtrapremierleague3
-1EFA_A_56_300000 # viasatxtrapremierleague4
-1F04_A_56_300000 # viasatxtrapremierleague5
-1F0E_A_56_300000 # viasatxtrapremierleague7
-1F18_A_56_300000 # viasatxtrapremierleague7
+1F40_A_56_300000
+1F4A_A_56_300000
+1F54_A_56_300000
+1F5E_A_56_300000
+1F68_A_56_300000
+1F90_A_56_300000
+1F72_A_56_300000
+1F22_A_56_300000
+1F2C_A_56_300000
+1F36_A_56_300000
+1FD6_A_56_300000
+1FE0_A_56_300000
+1FEA_A_56_300000
+1FF4_A_56_300000
+1EDC_A_56_300000
+1EE6_A_56_300000
+1EF0_A_56_300000
+1EFA_A_56_300000
+1F04_A_56_300000
+1F0E_A_56_300000
+1F18_A_56_300000
 
 # tv.videolina.png
 # 13.0E
@@ -10521,8 +10520,8 @@ C6C8_969_2_11A0000
 # tv.voyage.png
 # 19.2E
 1FB0_434_1_C00000
-19CD_444_1_C00000 # HD
-19E1_444_1_C00000 # HD
+19CD_444_1_C00000
+19E1_444_1_C00000
 
 # tv.vier.png
 # 19.2E
