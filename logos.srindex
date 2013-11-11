@@ -59,6 +59,8 @@ DD_14B4_9C_5A0000
 # 4.8E
 17E8_C_55_300000
 
+# tv.24kitchen.png
+
 # tv.2be.png
 # 19.2E
 320C_45F_35_C00000
@@ -256,7 +258,7 @@ D15B_90C_2_11A0000
 # 19.2E
 313F_459_1_C00000
 
-# tv.afn
+# tv.afn.png
 
 # tv.ahlulbayt.png
 # 28.2E
@@ -486,8 +488,6 @@ C6CA_820_2_11A0000
 # tv.arriadia.png
 # 13.0E
 A_2E18_B0_820000
-
-# tv.argos.png
 
 # tv.arte.png
 # 13.0E
@@ -4907,6 +4907,8 @@ F50_7D1_2_11A0000
 # 28.2E
 CC01_8FF_2_11A0000
 
+# tv.lmtvsarthe.png
+
 # tv.lnk.png
 # 4.8E
 B5E_34_55_300000
@@ -5337,6 +5339,8 @@ CC2E_8FF_2_11A0000
 # tv.mtamuslimtv.png
 # 28.2E
 CB9B_8FE_2_11A0000
+
+# tv.mtv3.png
 
 # tv.mtv3fakta.png
 # 0.8W
@@ -7044,6 +7048,8 @@ D7A9_900_2_11A0000
 # 13.0E
 1_1FA4_13E_820000
 
+# tv.rmcdecouverte.png
+
 # tv.rmcdecouvertehd.png
 # 19.2E
 275F_402_1_C00000
@@ -7277,6 +7283,8 @@ E_1A90_9E_5A0000
 # tv.rtv21.png
 
 # tv.rtvi.png
+
+# tv.rtvutrecht.png
 
 # tv.rtssat.png
 # 13.0E
