@@ -1,7 +1,7 @@
 FORMATTING
 ==========
 
-__serviceref.index.yml:__
+__logos.srindex:__
 
     ...
     
@@ -43,7 +43,7 @@ __Channel/Logo Name:__
   * NO fancy symbols
   * LOWERCASE
   * Time sharing channels, names seperated by `_`
-  * Sometimes it's useful to add a country code, do it like this, put `-gb`, `-de`, `-ru`, `-pl` or `-..` at the end of the logo's name. ISO country codes link can be found in `serviceref.index.yml`
+  * Sometimes it's useful to add a country code, do it like this, put `-gb`, `-de`, `-ru`, `-pl` or `-..` at the end of the logo's name. ISO country codes link can be found in `logos.srindex`
   * If the channelname contains a `+`, you use a `+`, if it's a timeshift channel, use `plus1`
   * For tv channels use the prefix `tv.`
   * For radio channels use the prefix `radio.`
@@ -62,7 +62,7 @@ __Order:__
   * Sorted `A-Z` as best as possible
 
 __Logo:__
-  * Name: correct name according to `serviceref.index.yml`
+  * Name: correct name according to `logos.srindex`
   * Type: transparent png
   * Resolution: as high as possible (try to get it 256px or more)
   * Quality: as high as possible
