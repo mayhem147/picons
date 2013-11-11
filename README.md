@@ -1,31 +1,36 @@
 FORMATTING
 ==========
 
-__picons.sh:__
+__serviceref.index.yml:__
 
     ...
     
-    # TV
+    ############################################################
+    ## TV ######################################################
+    ############################################################
 
     # tv.disneycinemagicplus1.png
     # 9.0E
-    ln -s tv.disneycinemagicplus1.png tv.4E86_1AF4_9C_5A0000.uid
+    4E86_1AF4_9C_5A0000
     # 19.2E
-    ln -s tv.disneycinemagicplus1.png tv.22CD_45A_1_C00000.uid
+    22CD_45A_1_C00000
     # 28.2E
-    ln -s tv.disneycinemagicplus1.png tv.232B_803_2_11A0000.uid
+    232B_803_2_11A0000
 
     # tv.canal+1hd-es.png
     # 19.2E
-    ln -s tv.canal+1hd-es.png tv.7612_408_1_C00000.uid
-    ln -s tv.canal+1hd-es.png tv.74D5_3F8_1_C00000.uid
-    ln -s tv.canal+1hd-es.png tv.74CC_3F8_1_C00000.uid
+    7612_408_1_C00000
+    74D5_3F8_1_C00000
+    74CC_3F8_1_C00000
 
-    # RADIO
+
+    ############################################################
+    ## RADIO ###################################################
+    ############################################################
 
     # radio.swr1badenwuerttemberg.png
     # 19.2E
-    ln -s radio.swr1badenwuerttemberg.png radio.6F31_445_1_C00000.uid
+    6F31_445_1_C00000
     
     ...
 
@@ -33,12 +38,12 @@ __picons.sh:__
 RULES
 =====
 
-__Channel Name:__
+__Channel/Logo Name:__
   * NO spaces
   * NO fancy symbols
   * LOWERCASE
   * Time sharing channels, names seperated by `_`
-  * Sometimes it's useful to add a country code, do it like this, put `-gb`, `-de`, `-ru`, `-pl` or `-..` at the end of the logo's name. ISO country codes link can be found in `picons.sh`
+  * Sometimes it's useful to add a country code, do it like this, put `-gb`, `-de`, `-ru`, `-pl` or `-..` at the end of the logo's name. ISO country codes link can be found in `serviceref.index.yml`
   * If the channelname contains a `+`, you use a `+`, if it's a timeshift channel, use `plus1`
   * For tv channels use the prefix `tv.`
   * For radio channels use the prefix `radio.`
@@ -46,23 +51,23 @@ __Channel Name:__
 __Serviceref:__
   * UPPERCASE
   * NO DUPLICATE entries
-  * Only the unique part of a serviceref is used, beginning with `tv.` or `radio.` depending on what it is and ending with `.uid`. The rest of the serviceref is generated accordingly.
+  * Only the unique part of a serviceref is used. The rest of the serviceref is generated accordingly.
   * The last part of the serviceref is the orbital position of the satellite, different servicerefs are grouped according the satellite they are on.
 
 __Extension:__
-  * `.png` or `.uid`
+  * `.png`
   * LOWERCASE
 
 __Order:__
   * Sorted `A-Z` as best as possible
 
 __Logo:__
-  * Name: correct name according to `picons.sh`
+  * Name: correct name according to `serviceref.index.yml`
   * Type: transparent png
   * Resolution: as high as possible (try to get it 256px or more)
   * Quality: as high as possible
   * When adding a new logo, also make sure you add the `# tv.channelname.png` or `# radio.channelname.png` tag.
-  * It's also possible to provide a `white` version of a logo, wich should be placed in the folder `/picons/white`
+  * It's also possible to provide a `white` version of a logo, wich should be placed in the folder `/logos/white`
 
 
 XVDR USERS? NEED SOME HELP?
