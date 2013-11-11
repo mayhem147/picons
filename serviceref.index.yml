@@ -1732,7 +1732,7 @@ D3C8_823_2_11A0000
 # 28.2E
 52D0_814_2_11A0000
 
-# tv.channel4plus1
+# tv.channel4plus1.png
 # 28.2E
 2077_7FA_2_11A0000
 2078_7FA_2_11A0000
@@ -8089,7 +8089,7 @@ F16_7E0_2_11A0000
 
 # tv.skymovieshd-gb.png
 
-# tv.skynews.png
+# tv.skynews-gb.png
 # 13.0E
 24E5_2260_FBFF_820000
 1FAC_189C_FBFF_820000
@@ -8104,7 +8104,7 @@ F16_7E0_2_11A0000
 # 0.8W
 3F5_31_46_7120000
 
-# tv.skynewshd.png
+# tv.skynewshd-gb.png
 # 28.2E
 F0A_7F7_2_11A0000
 
@@ -8945,7 +8945,7 @@ F1_2E18_B0_820000
 # tv.tbneurope.png
 # 13.0E
 321_3BC4_13E_820000
-# tv.28.0E
+# 28.0E
 CB9C_8FE_2_11A0000
 
 # tv.tbnitaly.png
@@ -9546,30 +9546,6 @@ EE2_17_56_300000
 730_1E_56_300000
 # 0.8W
 183B_3E_46_7120000
-
-# tv.tv2sport2.png
-# 4.8E
-1FA4_A_56_300000
-# 0.8W
-721_3E_46_7120000
-
-# tv.tv2sport3.png
-# 4.8E
-1FAE_A_56_300000
-# 0.8W
-CF0_3E_46_7120000
-
-# tv.tv2sport4.png
-# 4.8E
-1FC2_A_56_300000
-# 0.8W
-CEF_A_46_7120000
-
-# tv.tv2sport5.png
-# 4.8E
-1FCC_A_56_300000
-# 0.8W
-73B_A_46_7120000
 
 # tv.tv2sportpremierleague.png
 # 4.8E
