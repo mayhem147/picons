@@ -5173,6 +5173,10 @@ D368_81C_2_11A0000
 2E_21_85_C00000
 2FD_7_85_C00000
 
+# tv.medmuzik.png
+# 13.0E
+232C_2328_13E_820000
+
 # tv.meinfritztv.png
 
 # tv.medi1sat.png
@@ -8459,6 +8463,10 @@ F38_7E0_2_11A0000
 # 13.0E
 2B70_19C8_FBFF_820000
 
+# tv.skyunoplus1hd-it.png 
+# 13.0E
+37BA_14B4_FBFF_820000
+
 # tv.skyunoplus2-it.png
 # 13.0E
 596_320_FBFF_820000
@@ -10348,6 +10356,8 @@ A50_22_56_300000
 # tv.viasatnaturehd_viasathistoryhd.png
 # 4.8E
 7B2_1D_56_300000
+# 13.0E
+1B80_C88_3_820000
 
 # tv.viasatnature_viasatcrime_playboytv.png
 # 4.8E
