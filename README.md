@@ -34,6 +34,7 @@ __logos.srindex:__
     
     ...
 
+![srindex](https://raw.github.com/ocram/picons/gh-pages/images/srindex.png)
 
 GUIDELINES
 ==========
