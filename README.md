@@ -1,5 +1,5 @@
-FORMATTING
-==========
+FILE LAYOUT
+===========
 
 __logos.srindex:__
 
@@ -35,10 +35,10 @@ __logos.srindex:__
     ...
 
 
-RULES
-=====
+GUIDELINES
+==========
 
-__Channel/Logo Name:__
+__Naming:__
   * NO spaces
   * NO fancy symbols
   * LOWERCASE
@@ -47,19 +47,13 @@ __Channel/Logo Name:__
   * If the channelname contains a `+`, you use a `+`, if it's a timeshift channel, use `plus1`
   * For tv channels use the prefix `tv.`
   * For radio channels use the prefix `radio.`
-
+  * Sorted `A-Z` as best as possible
+  
 __Serviceref:__
   * UPPERCASE
   * NO DUPLICATE entries
   * Only the unique part of a serviceref is used. The rest of the serviceref is generated accordingly.
   * The last part of the serviceref is the orbital position of the satellite, different servicerefs are grouped according the satellite they are on.
-
-__Extension:__
-  * `.png`
-  * LOWERCASE
-
-__Order:__
-  * Sorted `A-Z` as best as possible
 
 __Logo:__
   * Name: correct name according to `logos.srindex`
@@ -68,12 +62,4 @@ __Logo:__
   * Quality: as high as possible
   * When adding a new logo, also make sure you add the `# tv.channelname.png` or `# radio.channelname.png` tag.
   * It's also possible to provide a `white` version of a logo, wich should be placed in the folder `/logos/white`
-
-
-XVDR USERS? NEED SOME HELP?
-===========================
-
-With the help of @tkurbad's python script [piconlinks.py](https://github.com/tkurbad/piconscripts#piconscripts), you can speed up the process of linking the channels. You basically feed it your "channels.conf" file and the location of the git repo you cloned containing the channel logos, it then will try to match as many channels as possible.
-
-@pipelka also supplies a tool called [serviceref](https://github.com/pipelka/vdr-plugin-xvdr/tree/master/tools) with the xvdr-plugin, wich you feed it also your "channels.conf" and it then spits out a file with all your channel names followed with their serviceref.
 
