@@ -1,8 +1,8 @@
-Generated: 2013-11-17 20:06:58 for 13.0E - 19.2E - 23.5E - 28.2E
+Generated: 2013-11-17 21:53:33 for 13.0E - 19.2E - 23.5E - 28.2E
 
 Channels: 5097
-Channels without picons: 2023
-Channels with picons: 3074
+Channels without picons: 2027
+Channels with picons: 3070
 Channels of type TV: 3211
 Channels of type HDTV: 656
 Channels of type RADIO: 612
@@ -607,7 +607,7 @@ Bayern 1                                                       RADIO    6EF0_445
 Bayern 2                                                       RADIO    6EF1_445_1_C00000      radio.bayern2.png
 BAYERN 3                                                       RADIO    6EF2_445_1_C00000      radio.bayern3.png
 BAYERN plus                                                    RADIO    6EF5_445_1_C00000      radio.bayernplus.png
-BBC 1 CI                                                       TV       18D9_7FD_2_11A0000
+BBC 1 CI                                                       TV       18D9_7FD_2_11A0000     tv.bbcone.png
 BBC 1 East (E)                                                 TV       2842_7FE_2_11A0000     tv.bbcone.png
 BBC 1 East (W)                                                 TV       18CF_7FD_2_11A0000     tv.bbcone.png
 BBC 1 E Mids                                                   TV       2841_7FE_2_11A0000     tv.bbcone.png
@@ -635,8 +635,8 @@ BBC 2 Wales                                                    TV       2848_7FE
 BBC 6 Music                                                    RADIO    288F_7FE_2_11A0000
 BBC Afghan                                                     RADIO    3677_1388_13E_820000
 BBC ALBA                                                       TV       1917_7FF_2_11A0000     tv.bbcalba.png
-BBC ARABIC                                                     RADIO    216F_400_1_C00000      tv.bbcarabic.png
-BBC Arabic                                                     RADIO    365C_1388_13E_820000   tv.bbcarabic.png
+BBC ARABIC                                                     RADIO    216F_400_1_C00000
+BBC Arabic                                                     RADIO    365C_1388_13E_820000
 BBC Arabic                                                     TV       365F_1388_13E_820000   tv.bbcarabic.png
 BBC Asian                                                      RADIO    193C_7FF_2_11A0000
 BBC CBeebies Poland                                            TV       390D_32C8_13E_820000   tv.cbeebies.png
@@ -725,7 +725,7 @@ BETHEL                                                         TV       1C6C_1C2
 BET                                                            TV       200B_24B8_13E_820000   tv.bet.png
 BEUR FM                                                        RADIO    216E_400_1_C00000
 BFBS Radio                                                     RADIO    CB3C_907_2_11A0000
-BFM BUSINESS                                                   RADIO    2156_400_1_C00000      tv.bfmbusiness.png
+BFM BUSINESS                                                   RADIO    2156_400_1_C00000
 BFM Business                                                   TV       2F94_454_1_C00000      tv.bfmbusiness.png
 BFM TV                                                         TV       19F_26AC_13F_820000    tv.bfmtv.png
 BFM TV                                                         TV       2F8A_454_1_C00000      tv.bfmtv.png
@@ -2214,7 +2214,7 @@ Home & Health                                                  TV       1840_7D9
 Home&Health+                                                   TV       CCE2_90B_2_11A0000     tv.discoveryhomeandhealthplus1.png
 Home                                                           TV       1965_7D6_2_11A0000     tv.home.png
 HOPE Channel deutsch                                           TV       47_7_85_C00000         tv.hopechannel.png
-HOPE Channel Radio                                             RADIO    AF_5_85_C00000         tv.hopechannel.png
+HOPE Channel Radio                                             RADIO    AF_5_85_C00000
 Hope Channel                                                   TV       1245_2B5C_13E_820000   tv.hopechannel.png
 Hope Channel                                                   TV       2997_3D54_13E_820000   tv.hopechannel.png
 HOROR FILM                                                     TV       333B_C89_3_EB0000      tv.hororfilm.png
@@ -2364,7 +2364,7 @@ ITVi Stream 44                                                 UNKNOWN  275F_7FC
 iTV                                                            TV       1D31_2FA8_13E_820000
 ITV                                                            TV       272E_801_2_11A0000     tv.itv1.png
 ITV                                                            TV       2738_801_2_11A0000     tv.itv1.png
-ITV                                                            TV       274C_7FC_2_11A0000
+ITV                                                            TV       274C_7FC_2_11A0000     tv.itv1.png
 ITV                                                            TV       2760_7FC_2_11A0000     tv.itv1.png
 ITV                                                            TV       276A_7FC_2_11A0000     tv.itv1.png
 ITV                                                            TV       2774_7FC_2_11A0000     tv.itv1.png
@@ -2407,7 +2407,7 @@ JIMMY                                                          TV       1FAA_434
 JIM                                                            TV       5276_C96_3_EB0000      tv.jim.png
 JML Direct                                                     TV       D386_81C_2_11A0000     tv.jml.png
 JML Shop                                                       TV       202_7_85_C00000        tv.jml.png
-JN1Bis                                                         RADIO    6B1_3138_13E_820000    tv.gameone.png
+JN1Bis                                                         RADIO    6B1_3138_13E_820000
 JOEfm                                                          RADIO    31F3_45F_35_C00000
 joiz                                                           TV       4A_5_85_C00000         tv.joiz.png
 JOJ PLUS                                                       TV       13EE_C87_3_EB0000      tv.jojplus.png
@@ -2555,9 +2555,9 @@ LiverpoolFCTV                                                  TV       CC01_8FF
 Livetime                                                       RADIO    3C0E_64_FBFF_820000
 Live Timing                                                    TV       2C39_251C_FBFF_820000
 lo3b whob                                                      TV       298C_3D54_13E_820000
-LOKALEINS                                                      TV       33AF_3EB_1_C00000      radio.lokaleins.png
+LOKALEINS                                                      TV       33AF_3EB_1_C00000
 Lokal TV Portal                                                TV       1252_3FD_1_C00000      tv.lokalsat.png
-LOKALZWEI                                                      TV       33B0_3EB_1_C00000      radio.lokalzwei.png
+LOKALZWEI                                                      TV       33B0_3EB_1_C00000
 LOMBARDIA SAT                                                  TV       274_3C8C_13E_820000
 Looking Local                                                  UNKNOWN  1FA4_7EE_2_11A0000
 Love Radio                                                     RADIO    135_157C_13E_820000
@@ -3569,7 +3569,7 @@ Rainbow                                                        RADIO    D849_81E
 RaiNettunoSat1                                                 TV       CEC_1518_13E_820000    tv.rainettunosatuno.png
 Rai News                                                       TV       2144_3070_13E_820000   tv.rainews.png
 Rai Premium                                                    TV       CEA_1518_13E_820000    tv.raipremium.png
-Rai Radio1                                                     RADIO    CEF_1518_13E_820000
+Rai Radio1                                                     RADIO    CEF_1518_13E_820000    radio.rairadio1.png
 Rai Radio2                                                     RADIO    CF0_1518_13E_820000
 Rai Radio3                                                     RADIO    CF1_1518_13E_820000
 Rai radiofd4                                                   RADIO    2143_3070_13E_820000
@@ -3633,7 +3633,7 @@ revelation                                                     TV       CB9F_8FE
 RFE/RL TV 1 (HB1-8)                                            TV       1_65_1_82AFC2
 RFI Francais                                                   RADIO    C0F_20D0_13E_820000
 RFI INTERNAT                                                   RADIO    214C_400_1_C00000
-RFI Persian                                                    RADIO    1D2D_2FA8_13E_820000   tv.virginradiotv.png
+RFI Persian                                                    RADIO    1D2D_2FA8_13E_820000
 RFM                                                            RADIO    2163_400_1_C00000
 rfo Regional Oberbayern                                        TV       11FD_3FD_1_C00000      tv.rfooberbayern.png
 RF                                                             UNKNOWN  2146_400_1_C00000
@@ -4997,7 +4997,7 @@ VOYAGE HD                                                      HDTV     19E1_444
 VOYAGE                                                         TV       1FB0_434_1_C00000      tv.voyage.png
 Vozrojdenie.tv                                                 TV       439C_2CEC_13E_820000
 VRT Radio1                                                     RADIO    31EA_45F_35_C00000     radio.vrtradio1.png
-VRT Radio 1                                                    RADIO    43D0_2CEC_13E_820000
+VRT Radio 1                                                    RADIO    43D0_2CEC_13E_820000   radio.vrtradio1.png
 VRT Radio2                                                     RADIO    31EB_45F_35_C00000     radio.vrtradio2.png
 VTM HD                                                         HDTV     1B76_C88_3_EB0000      tv.vtmhd.png
 VTMKazoom/Kanaal Z                                             TV       527C_C96_3_EB0000      tv.vtmkzoom_kanaalz.png
