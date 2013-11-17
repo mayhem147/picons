@@ -39,7 +39,7 @@
 000 NO NAME FOUND                                              OTHER  132A_807_2_11A0000     tv.skymoviesboxoffice-gb.png
 000 NO NAME FOUND                                              OTHER  133E_7EF_2_11A0000     tv.skymoviesboxoffice-gb.png
 000 NO NAME FOUND                                              OTHER  13A5_7EF_2_11A0000     tv.skymoviesboxoffice-gb.png
-000 NO NAME FOUND                                              OTHER  1_3DB8_13E_820000
+000 NO NAME FOUND                                              OTHER  1_3DB8_13E_820000      tv.challenger.png
 000 NO NAME FOUND                                              OTHER  14AB_7EF_2_11A0000     tv.skymoviesboxoffice-gb.png
 000 NO NAME FOUND                                              OTHER  15AE_7EF_2_11A0000     tv.skymoviesboxoffice-gb.png
 000 NO NAME FOUND                                              OTHER  15AF_7EF_2_11A0000     tv.skymoviesboxoffice-gb.png
@@ -707,7 +707,7 @@ Best of shopping                                               TV     274E_402_1
 BET +1                                                         TV     C78A_81F_2_11A0000     tv.betplus1.png
 Betar Bangla                                                   TV     2026_24B8_13E_820000
 BET:BlackEntTv                                                 TV     C789_81F_2_11A0000     tv.bet.png
-BETHEL                                                         TV     1C6C_1C20_13E_820000
+BETHEL                                                         TV     1C6C_1C20_13E_820000   tv.betheltv.png
 BET                                                            TV     200B_24B8_13E_820000   tv.bet.png
 BEUR FM                                                        RADIO  216E_400_1_C00000
 BFBS Radio                                                     RADIO  CB3C_907_2_11A0000
@@ -975,9 +975,9 @@ Chaine 1                                                       RADIO  6D7_3138_1
 Chaine 2                                                       RADIO  6AF_3138_13E_820000
 Chaine 3                                                       RADIO  6C3_3138_13E_820000
 Challenge+1                                                    TV     178A_7EF_2_11A0000     tv.challengeplus1.png
-Challenger New                                                 TV     4212_3DB8_13E_820000
-Challenger                                                     TV     4210_3DB8_13E_820000
-Challenger                                                     TV     4211_3DB8_13E_820000
+Challenger New                                                 TV     4212_3DB8_13E_820000   tv.challenger.png
+Challenger                                                     TV     4210_3DB8_13E_820000   tv.challenger.png
+Challenger                                                     TV     4211_3DB8_13E_820000   tv.challenger.png
 Challenge                                                      TV     178F_7EF_2_11A0000     tv.challenge.png
 Challenge                                                      TV     1790_7EF_2_11A0000
 Chamber TV                                                     TV     1464_C98_3_EB0000      tv.chambertv.png
@@ -1127,7 +1127,7 @@ Classic21                                                      RADIO  323E_45F_3
 Classica HD                                                    HD TV  104A_1D4C_FBFF_820000  tv.classicahd.png
 Classica HD                                                    HD TV  F8C_2198_FBFF_820000   tv.classicahd.png
 Classica HD                                                    TV     2C36_251C_FBFF_820000  tv.classicahd.png
-Classica                                                       TV     18_11_85_C00000        tv.unitelclassica.png
+Classica                                                       TV     18_11_85_C00000        tv.classica.png
 Classic FM                                                     RADIO  2562_81A_2_11A0000
 Classic FM                                                     RADIO  518A_C8B_3_EB0000      radio.classicfm.png
 ClassTv                                                        TV     30F_1B58_13E_820000    tv.classtv.png
@@ -1335,7 +1335,7 @@ DCS1                                                           OTHER  105E_7D4_2
 DCS5                                                           OTHER  11EE_7D2_2_11A0000
 DCS6                                                           OTHER  1252_7DC_2_11A0000
 DeAJunior                                                      TV     2C31_251C_FBFF_820000  tv.deajunior.png
-DeAKids +1                                                     TV     2FD0_2C24_FBFF_820000
+DeAKids +1                                                     TV     2FD0_2C24_FBFF_820000  tv.deakidsplus1.png
 DeAKids                                                        TV     2CC4_2580_FBFF_820000  tv.deakids.png
 DeA Sapere HD                                                  HD TV  2D02_2774_FBFF_820000  tv.deasaperehd.png
 DEEJAY                                                         RADIO  E43_708_C8_820000
@@ -1432,7 +1432,7 @@ DISNEY HD                                                      TV     447A_1F40_
 DisneyInEnglish                                                TV     2CBE_2580_FBFF_820000  tv.disneychannel.png
 Disney Jnr HD                                                  HD TV  F21_7EB_2_11A0000      tv.disneyjuniorhd.png
 DISNEY JR                                                      TV     746B_3F0_1_C00000      tv.disneyjunior.png
-Disney Junior +1                                               TV     3BC5_64_FBFF_820000    tv.disneyjuniorplus.png
+Disney Junior +1                                               TV     3BC5_64_FBFF_820000    tv.disneyjuniorplus1.png
 DISNEY JUNIOR HD                                               HD TV  19CA_444_1_C00000      tv.disneyjuniorhd.png
 DISNEY JUNIOR HD                                               HD TV  19DE_444_1_C00000      tv.disneyjuniorhd.png
 Disney Junior                                                  TV     1A_11_85_C00000        tv.disneyjunior.png
@@ -1606,8 +1606,8 @@ ERI TV                                                         TV     BC2_20D0_1
 Erotik 24                                                      TV     3144_459_1_C00000
 EROTIKA TV - NEU!                                              TV     315F_459_1_C00000
 Erotik Sat                                                     TV     314B_459_1_C00000      tv.erotiksat.png
-EROX                                                           TV     36E4_C8C_3_EB0000      tv.eroxhd.png
-EROXXX                                                         TV     36E7_C8C_3_EB0000      tv.eroxxxhd.png
+EROX                                                           TV     36E4_C8C_3_EB0000      tv.erox.png
+EROXXX                                                         TV     36E7_C8C_3_EB0000      tv.eroxxx.png
 eSales Test                                                    OTHER  1F6C_7D4_2_11A0000
 ESCALES                                                        TV     1CA_26AC_13F_820000    tv.escales.png
 ESCALES                                                        TV     4281_446_1_C00000      tv.escales.png
@@ -2106,7 +2106,7 @@ Gulli                                                          TV     1A2_26AC_1
 GULLI                                                          TV     2205_44C_1_C00000      tv.gulli.png
 GULLI                                                          TV     2219_44C_1_C00000      tv.gulli.png
 GUNAZ TV                                                       TV     129B_3458_13E_820000
-GXT +1                                                         TV     2FE7_2C24_FBFF_820000
+GXT +1                                                         TV     2FE7_2C24_FBFF_820000  tv.gxtplus1.png
 GXT                                                            TV     2BCD_1A90_FBFF_820000  tv.gxt.png
 H2                                                             TV     D7A5_900_2_11A0000     tv.history2.png
 HADI TV1                                                       TV     2481_23F0_13F_820000
@@ -2493,7 +2493,7 @@ La 5                                                           TV     7_3DE_110_
 LA7ondemand                                                    TV     E23_708_C8_820000
 La7                                                            TV     57F_320_FBFF_820000    tv.la7.png
 LA7                                                            TV     E1E_708_C8_820000      tv.la7.png
-LA9                                                            TV     870_578_13E_82ACCE
+LA9                                                            TV     870_578_13E_82ACCE     tv.la9.png
 LA CHAINE METEO                                                TV     22C6_45A_1_C00000      tv.lachainemeteo.png
 La Deux                                                        OTHER  3234_45F_35_C00000     tv.ladeux.png
 Lamhe                                                          TV     C530_81B_2_11A0000     tv.lamhe.png
@@ -3259,7 +3259,7 @@ Polsat Biznes                                                  TV     3333_3390_
 Polsat Cafe                                                    TV     3332_3390_71_820000
 Polsat Cafe                                                    TV     3346_3390_71_820000    tv.polsatcafe.png
 Polsat Film HD                                                 TV     3E1E_2EE0_13E_820000   tv.polsatfilmhd.png
-Polsat Film                                                    TV     3334_3390_71_820000
+Polsat Film                                                    TV     3334_3390_71_820000    tv.polsatfilm.png
 Polsat Food                                                    TV     2905_1EDC_71_820000    tv.polsatfoodnetwork.png
 Polsat HD                                                      TV     C23_1E78_71_820000     tv.polsathd.png
 Polsat Jim Jam                                                 TV     290C_1EDC_71_820000    tv.jimjam.png
@@ -3373,7 +3373,7 @@ ProSieben MAXX HD                                              HD TV  EF78_3F9_1
 ProSieben MAXX                                                 TV     4461_453_1_C00000      tv.prosiebenmaxx.png
 ProSieben Schweiz                                              TV     4E21_43A_1_C00000      tv.prosieben.png
 ProSieben                                                      TV     445D_453_1_C00000      tv.prosieben.png
-Pro TV International                                           TV     125D_3458_13E_820000
+Pro TV International                                           TV     125D_3458_13E_820000   tv.protvinternational.png
 Psychic Today                                                  TV     D7BA_900_2_11A0000     tv.psychictoday.png
 PTC PUNJABI                                                    TV     D74D_81A_2_11A0000     tv.ptcpunjabi.png
 PTV Global                                                     TV     C6C3_820_2_11A0000     tv.ptvglobal.png
@@ -3607,7 +3607,7 @@ ReginaBB                                                       RADIO  13F9_C87_3
 ReginaKE                                                       RADIO  13FA_C87_3_EB0000
 regionalnitelevize.cz                                          TV     1453_C98_3_EB0000      tv.regionalnitelevize.png
 REGIO TV                                                       TV     2F_21_85_C00000        tv.regiotv.png
-ReligiaTV                                                      TV     3DC4_640_13E_820000
+ReligiaTV                                                      TV     3DC4_640_13E_820000    tv.religiatv.png
 Retail TV                                                      TV     D357_81C_2_11A0000     tv.thanedirect.png
 Rete 4                                                         TV     3_3DE_110_820000       tv.rete4.png
 RETE ASTE                                                      TV     726_578_13E_82ACCE
@@ -3896,12 +3896,12 @@ Sky1                                                           TV     125F_7EE_2
 Sky1                                                           TV     128E_7EA_2_11A0000     tv.sky1-gb.png
 Sky2                                                           TV     1290_7EA_2_11A0000     tv.sky2-gb.png
 Sky2                                                           TV     13F4_807_2_11A0000     tv.sky2-gb.png
-Sky 3D                                                         HD TV  1040_1D4C_FBFF_820000
-Sky 3D                                                         HD TV  1041_1D4C_FBFF_820000
-Sky 3D                                                         HD TV  1042_1D4C_FBFF_820000
-Sky 3D                                                         HD TV  1043_1D4C_FBFF_820000
-Sky 3D                                                         HD TV  1044_1D4C_FBFF_820000
-Sky 3D                                                         HD TV  104D_1D4C_FBFF_820000
+Sky 3D                                                         HD TV  1040_1D4C_FBFF_820000  tv.sky3d-it.png
+Sky 3D                                                         HD TV  1041_1D4C_FBFF_820000  tv.sky3d-it.png
+Sky 3D                                                         HD TV  1042_1D4C_FBFF_820000  tv.sky3d-it.png
+Sky 3D                                                         HD TV  1043_1D4C_FBFF_820000  tv.sky3d-it.png
+Sky 3D                                                         HD TV  1044_1D4C_FBFF_820000  tv.sky3d-it.png
+Sky 3D                                                         HD TV  104D_1D4C_FBFF_820000  tv.sky3d-it.png
 Sky 3D                                                         HD TV  516_7F7_2_11A0000      tv.sky3d-gb.png
 Sky 3D                                                         HD TV  75_A_85_C00000         tv.sky3d-de.png
 Sky 3D                                                         HD TV  F0E_7F7_2_11A0000      tv.sky3d-gb.png
@@ -4501,7 +4501,7 @@ TELEIPPICA 2                                                   TV     1486_C98_3
 Telemarket for You                                             TV     2CC_1B58_13E_820000
 Telemarket                                                     TV     133F_33F4_13E_820000
 TELE MELODY                                                    TV     2135_400_1_C00000      tv.telemelody.png
-TELENOVA                                                       TV     730_578_13E_82ACCE
+TELENOVA                                                       TV     730_578_13E_82ACCE     tv.telenova.png
 Telepace                                                       TV     BBF_20D0_13E_820000    tv.telepace.png
 TELEPADREPIO                                                   TV     132E_33F4_13E_820000   tv.teleradiopadrepiotv.png
 Telepiù Channel                                                TV     29D1_3CF0_13E_820000
@@ -4578,7 +4578,7 @@ TG24PrimoPiano                                                 TV     10E8_1644_
 TG24 Rassegne                                                  TV     10EA_1644_FBFF_820000  tv.skytg24active-it.png
 TG4                                                            TV     2583_7FB_2_11A0000     tv.tg4.png
 TgCom24                                                        TV     8_3DE_110_820000       tv.tgcom24.png
-TG NORBA 24                                                    TV     3A0B_1FA4_13E_820000
+TG NORBA 24                                                    TV     3A0B_1FA4_13E_820000   tv.tgnorba24.png
 TGN Radio                                                      RADIO  43C4_2CEC_13E_820000
 Thai Global Network                                            TV     43A8_2CEC_13E_820000   tv.thaitvglobalnetwork.png
 Thamizhamutham Radio                                           TV     2027_24B8_13E_820000
@@ -4749,8 +4749,8 @@ TV Noord                                                       OTHER  514A_C8B_3
 TVN Siedem                                                     TV     10D9_3E8_13E_820000    tv.tvn7siedem.png
 TVN Style HD                                                   TV     3DCE_640_13E_820000    tv.tvnstylehd.png
 TVN STYLE HD                                                   TV     3DCF_640_13E_820000
-TVN Style                                                      TV     10E0_3E8_13E_820000
-TVN STYLE_                                                     TV     10FE_3E8_13E_820000
+TVN Style                                                      TV     10E0_3E8_13E_820000    tv.tvnstyle.png
+TVN STYLE_                                                     TV     10FE_3E8_13E_820000    tv.tvnstyle.png
 TVN Turbo HD                                                   TV     3DD0_640_13E_820000    tv.tvnturbohd.png
 TVN TURBO HD                                                   TV     3DD1_640_13E_820000
 TVN Turbo                                                      TV     10DF_3E8_13E_820000    tv.tvnturbo.png
@@ -5050,7 +5050,7 @@ XDOME                                                          OTHER  2C7F_251C_
 X Factor                                                       HD TV  2503_170C_FBFF_820000
 X Factor                                                       HD TV  253B_170C_FBFF_820000
 XFM                                                            RADIO  2557_81A_2_11A0000
-Xplicit Nightly                                                OTHER  102B_822_2_11A0000
+Xplicit Nightly                                                OTHER  102B_822_2_11A0000     tv.xxxcess.png
 XXL PL                                                         TV     1D5_26AC_13F_820000    tv.xxl.png
 XXL                                                            TV     1D4_26AC_13F_820000    tv.xxl.png
 XXL                                                            TV     4280_446_1_C00000      tv.xxl.png
@@ -5095,5 +5095,5 @@ Zing                                                           TV     C526_81B_2
 Zlote Przeboje                                                 RADIO  291C_1EDC_71_820000
 Zlote Przeboje                                                 TV     2917_1EDC_71_820000
 
-There are 2044 channels without a picon
-Generated:  2013-11-17 17:27:13
+There are 2022 channels without a picon
+Generated:  2013-11-17 18:25:10
