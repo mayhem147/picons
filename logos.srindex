@@ -285,7 +285,11 @@ D3C7_823_2_11A0000
 3781_44C_13E_820000
 379F_44C_13E_820000
 
-# tv.aletejahtv.png
+# tv.aletejahenglish.png
+--- 13.0E
+BC7_20D0_13E_820000
+
+# tv.aletejah.png
 --- 13.0E
 71_1E14_13E_820000
 BB8_20D0_13E_820000
@@ -5860,6 +5864,10 @@ FA3_451_35_C00000
 --- 23.5E
 521C_C99_3_EB0000
 
+# tv.newroz.png
+--- 13.0E
+2970_3D54_13E_820000
+
 # tv.news18india.png
 --- 28.2E
 D7AB_900_2_11A0000
@@ -6926,6 +6934,10 @@ C4C2_819_2_11A0000
 # tv.radioitaliatv.png
 --- 13.0E
 2C8_1B58_13E_820000
+
+# tv.radionorba.png
+--- 13.0E
+3A0C_1FA4_13E_820000
 
 # tv.rai1.png
 --- 9.0E
