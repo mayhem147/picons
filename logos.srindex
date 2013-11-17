@@ -922,7 +922,8 @@ C789_81F_2_11A0000
 C78A_81F_2_11A0000
 
 # tv.betheltv.png
---- NO DATA
+--- 13.0E
+1C6C_1C20_13E_820000
 
 # tv.believetv.png
 --- 28.2E
@@ -1739,7 +1740,10 @@ D3C8_823_2_11A0000
 178A_7EF_2_11A0000
 
 # tv.challenger.png
---- NO DATA
+--- 13.0E
+4210_3DB8_13E_820000
+4211_3DB8_13E_820000
+4212_3DB8_13E_820000
 
 # tv.chambertv.png
 --- 23.5E
@@ -1935,7 +1939,8 @@ C26_1E78_71_820000
 313_1B58_13E_820000
 
 # tv.classica.png
---- NO DATA
+--- 19.2E
+18_11_85_C00000
 
 # tv.classicahd.png
 --- 13.0E
@@ -2336,7 +2341,8 @@ CB8E_8FD_2_11A0000
 2CC4_2580_FBFF_820000
 
 # tv.deakidsplus1.png
---- NO DATA
+--- 13.0E
+2FD0_2C24_FBFF_820000
 
 # tv.deasaperehd.png
 --- 13.0E
@@ -2664,11 +2670,10 @@ F21_7EB_2_11A0000
 46A_3_56_300000
 
 # tv.disneyjuniorplus1.png
---- NO DATA
-
-# tv.disneyjuniorplus.png
 --- 13.0E
 3BC5_64_FBFF_820000
+
+# tv.disneyjuniorplus.png
 --- 28.2E
 2332_803_2_11A0000
 
@@ -3935,7 +3940,8 @@ F1B_7EB_2_11A0000
 2BCD_1A90_FBFF_820000
 
 # tv.gxtplus1.png
---- NO DATA
+--- 13.0E
+2FE7_2C24_FBFF_820000
 
 # tv.haberturktv.png
 --- NO DATA
@@ -4827,7 +4833,8 @@ E1E_708_C8_820000
 --- NO DATA
 
 # tv.la9.png
---- NO DATA
+--- 13.0E
+870_578_13E_82ACCE
 
 # tv.lamhe.png
 --- 28.2E
@@ -6671,7 +6678,8 @@ E27_708_C8_820000
 1C9D_332C_13E_820000
 
 # tv.polsatfilm.png
---- NO DATA
+--- 13.0E
+3334_3390_71_820000
 
 # tv.polsatfilmhd.png
 --- 13.0E
@@ -6834,7 +6842,8 @@ EF75_3F9_1_C00000
 --- NO DATA
 
 # tv.protvinternational.png
---- NO DATA
+--- 13.0E
+125D_3458_13E_820000
 
 # tv.psychictoday.png
 --- 28.2E
@@ -7103,7 +7112,8 @@ D156_90C_2_11A0000
 2F_21_85_C00000
 
 # tv.religiatv.png
---- NO DATA
+--- 13.0E
+3DC4_640_13E_820000
 
 # tv.renaulttv.png
 --- NO DATA
@@ -7747,7 +7757,13 @@ F15_7F1_2_11A0000
 F0E_7F7_2_11A0000
 
 # tv.sky3d-it.png
---- NO DATA
+--- 13.0E
+1040_1D4C_FBFF_820000
+1041_1D4C_FBFF_820000
+1042_1D4C_FBFF_820000
+1043_1D4C_FBFF_820000
+1044_1D4C_FBFF_820000
+104D_1D4C_FBFF_820000
 
 # tv.skyaction-de.png
 --- 19.2E
@@ -8395,7 +8411,8 @@ DE_4_85_C00000
 6C_C_85_C00000
 
 # tv.skysportnews-de.png
---- NO DATA
+--- 19.2E
+11_3_85_C00000
 
 # tv.skysportsf1-gb.png
 --- 28.2E
@@ -9142,7 +9159,9 @@ F42_7EB_2_11A0000
 2135_400_1_C00000
 
 # tv.telenova.png
---- NO DATA
+--- 13.0E
+730_578_13E_82ACCE
+730_578_13E_820000
 
 # tv.telepace.png
 --- 13.0E
@@ -9246,7 +9265,8 @@ D7CC_822_2_11A0000
 --- NO DATA
 
 # tv.tgnorba24.png
---- NO DATA
+--- 13.0E
+3A0B_1FA4_13E_820000
 
 # tv.tgrteu.png
 --- NO DATA
@@ -9782,7 +9802,6 @@ CD5F_902_2_11A0000
 1C9A_332C_13E_820000
 --- 19.2E
 1B03_3FE_1_C00000
---- NO DATA
 
 # tv.tv4-pl.png
 --- 13.0E
@@ -9969,7 +9988,9 @@ D7EB_822_2_11A0000
 10DE_3E8_13E_820000
 
 # tv.tvnstyle.png
---- NO DATA
+--- 13.0E
+10E0_3E8_13E_820000
+10FE_3E8_13E_820000
 
 # tv.tvnstylehd.png
 --- 13.0E
@@ -10190,8 +10211,7 @@ F28_7F3_2_11A0000
 CBFC_8FF_2_11A0000
 
 # tv.unitelclassica.png
---- 19.2E
-18_11_85_C00000
+--- NO DATA
 
 # tv.unitelclassicahd.png
 --- 23.5E
@@ -10448,7 +10468,6 @@ A50_22_56_300000
 # tv.viasatnaturehd_viasathistoryhd.png
 --- 4.8E
 7B2_1D_56_300000
---- NO DATA
 
 # tv.viasatnature_viasatcrime_playboytv.png
 --- 4.8E
@@ -10729,7 +10748,8 @@ F3F_808_2_11A0000
 429E_446_1_C00000
 
 # tv.xxxcess.png
---- NO DATA
+--- 28.2E
+102B_822_2_11A0000
 
 # tv.xxxgay.png
 --- 28.2E
