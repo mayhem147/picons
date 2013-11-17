@@ -763,9 +763,6 @@ D363_81C_2_11A0000
 # tv.bbcarabic.png
 --- 13.0E
 365F_1388_13E_820000
-365C_1388_13E_820000
---- 19.2E
-216F_400_1_C00000
 
 # tv.bbcentertainment.png
 --- 9.0E
@@ -826,6 +823,7 @@ E08_2D50_13E_820000
 2874_800_2_11A0000
 2879_800_2_11A0000
 1947_7FF_2_11A0000
+18D9_7FD_2_11A0000
 
 # tv.bbconehd.png
 --- 28.2E
@@ -972,7 +970,6 @@ D377_81C_2_11A0000
 # tv.bfmbusiness.png
 --- 19.2E
 2F94_454_1_C00000
-2156_400_1_C00000
 
 # tv.bibeltv.png
 --- 9.0E
@@ -3815,7 +3812,6 @@ DB7_1AF4_FBFF_820000
 
 # tv.gameone.png
 --- 13.0E
-6B1_3138_13E_820000
 1F8_26AC_13F_820000
 --- 19.2E
 6FF7_42A_1_C00000
@@ -4163,7 +4159,6 @@ D7C4_822_2_11A0000
 1245_2B5C_13E_820000
 2997_3D54_13E_820000
 --- 19.2E
-AF_5_85_C00000
 47_7_85_C00000
 
 # tv.horrorchannel.png
@@ -4380,6 +4375,7 @@ A_3DE_110_820000
 50DC_80F_2_11A0000
 50DD_80F_2_11A0000
 27D8_806_2_11A0000
+274C_7FC_2_11A0000
 
 # tv.itv1hd.png
 --- 28.2E
@@ -10528,8 +10524,7 @@ A8C_23_56_300000
 --- NO DATA
 
 # tv.virginradiotv.png
---- 13.0E
-1D2D_2FA8_13E_820000
+--- NO DATA
 
 # tv.vijf.png
 --- 19.2E
@@ -11029,12 +11024,10 @@ B1_5_85_C00000
 AD_5_85_C00000
 
 # radio.lokaleins.png
---- 19.2E
-33AF_3EB_1_C00000
+--- NO DATA
 
 # radio.lokalzwei.png
---- 19.2E
-33B0_3EB_1_C00000
+--- NO DATA
 
 # radio.mdr1radiosachsen.png
 --- 19.2E
@@ -11208,7 +11201,8 @@ A9_7_85_C00000
 --- NO DATA
 
 # radio.rairadio1.png
---- NO DATA
+--- 13.0E
+CEF_1518_13E_820000
 
 # radio.rbbantennebrandenburg.png
 --- 19.2E
@@ -11311,6 +11305,8 @@ A0_7_85_C00000
 5186_C8B_3_EB0000
 
 # radio.vrtradio1.png
+--- 13.0E
+43D0_2CEC_13E_820000
 --- 19.2E
 31EA_45F_35_C00000
 
