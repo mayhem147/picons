@@ -1,8 +1,8 @@
-Generated: 2013-11-18 00:43:01 for 4.8E - 9.0E - 13.0E - 19.2E - 23.5E - 28.2E - 0.8W
+Generated: 2013-11-18 00:56:12 for 4.8E - 9.0E - 13.0E - 19.2E - 23.5E - 28.2E - 0.8W
 
 Channels: 6511
-Channels without picons: 3105
-Channels with picons: 3406
+Channels without picons: 3114
+Channels with picons: 3397
 Channels of type TV: 5502
 Channels of type RADIO: 1009
 Channels of type UNKNOWN: 0
@@ -188,7 +188,7 @@ Classic                                                                         
 Classic21                                                                            RADIO  323E_45F_35_C00000
 Classic FM                                                                           RADIO  2562_81A_2_11A0000
 Classic FM                                                                           RADIO  518A_C8B_3_EB0000      radio.classicfm.png
-CNN Radio                                                                            RADIO  2011_24B8_13E_820000   tv.cnn.png
+CNN Radio                                                                            RADIO  2011_24B8_13E_820000
 CONTACT FM                                                                           RADIO  2161_400_1_C00000
 Contingency                                                                          RADIO  384_12D_A_5A0000
 COUNTRY JZ                                                                           RADIO  3365_C93_3_EB0000
@@ -412,7 +412,7 @@ Magic                                                                           
 Margherita                                                                           RADIO  1C30_1C20_13E_820000
 Marrakech                                                                            RADIO  B3_2E18_B0_820000
 Mashaal Radio 210                                                                    RADIO  D2_65_1_82AFC1
-MBC FM                                                                               RADIO  2529_13EF_13E_820000   tv.alarabiya.png
+MBC FM                                                                               RADIO  2529_13EF_13E_820000
 MC 2                                                                                 RADIO  E30_708_C8_820000
 MC DOUALIYA                                                                          RADIO  2153_400_1_C00000
 MDR1 SACHSEN                                                                         RADIO  6F0C_445_1_C00000      radio.mdr1radiosachsen.png
@@ -615,7 +615,7 @@ Radio Jahani                                                                    
 Radio Kara                                                                           RADIO  DB8_16A8_9C_5A0000
 RADIO LATINA                                                                         RADIO  2162_400_1_C00000
 Radio Lider 107 FM                                                                   RADIO  1C36_1C20_13E_820000
-Radio Lome                                                                           RADIO  DB7_16A8_9C_5A0000     tv.foxhd.png
+Radio Lome                                                                           RADIO  DB7_16A8_9C_5A0000
 Radio Lumen                                                                          RADIO  1406_C87_3_EB0000
 Radio Maria                                                                          RADIO  2DC_1B58_13E_820000
 RADIO MARIA                                                                          RADIO  3354_45B_1_C00000
@@ -661,7 +661,7 @@ Radio Tondar                                                                    
 radio top40                                                                          RADIO  316D_459_1_C00000
 Radio Vaticana                                                                       RADIO  2BAD_19C8_FBFF_820000
 Radio Vaticana                                                                       RADIO  CF8_1518_13E_820000
-Radio Vaticana Telepace                                                              RADIO  BBF_20D0_13E_820000    tv.telepace.png
+Radio Vaticana Telepace                                                              RADIO  BBF_20D0_13E_820000
 Radio Veronica                                                                       RADIO  5186_C8B_3_EB0000      radio.veronica.png
 RadioVIBE                                                                            RADIO  9D3_4_1_E0830EF
 Radio Vocea Evangheliei                                                              RADIO  E8_2_55_300000
@@ -831,8 +831,8 @@ Skai Radio                                                                      
 Sky Active                                                                           RADIO  1F95_7D4_2_11A0000
 Sky Bet and Sky Vegas                                                                RADIO  1F7D_7DC_2_11A0000
 Sky Games                                                                            RADIO  1FAB_7E3_2_11A2F26
-Sky Primafila                                                                        RADIO  1FD1_189C_FBFF_820000  tv.skyprimafila-it.png
-Sky Primafila                                                                        RADIO  1FD2_189C_FBFF_820000  tv.skyprimafila-it.png
+Sky Primafila                                                                        RADIO  1FD1_189C_FBFF_820000
+Sky Primafila                                                                        RADIO  1FD2_189C_FBFF_820000
 Sky Radio                                                                            RADIO  5188_C8B_3_EB0000      radio.skyradio.png
 SKYROCK                                                                              RADIO  215B_400_1_C00000
 Sky Showcase Search                                                                  RADIO  1F5A_7D4_2_11A0000
@@ -1253,7 +1253,7 @@ A la carte 7                                                                    
 Al Aoula                                                                             TV     3_2E18_B0_820000       tv.alaoulainter.png
 Al Aoula Inter                                                                       TV     5_2E18_B0_820000       tv.alaoulainter.png
 Al Aoula Laayoune                                                                    TV     2_2E18_B0_820000       tv.alaoulainter.png
-Al Arabiya                                                                           TV     2529_13EF_13E_820000   tv.alarabiya.png
+Al Arabiya                                                                           TV     2529_13EF_13E_820000
 Al Atlas                                                                             TV     29D7_3CF0_13E_820000
 Al Baghdadia                                                                         TV     2528_13EF_13E_820000
 Al Baghdadia 2                                                                       TV     2527_13EF_13E_820000
@@ -2133,7 +2133,7 @@ CNC World                                                                       
 CNL Russia                                                                           TV     43A0_2CEC_13E_820000
 CNN International Europe                                                             TV     1B80_9_56_300000       tv.cnn.png
 CNN International Europe                                                             TV     1BE4_7E2_2_11A0000     tv.cnn.png
-CNN International Europe                                                             TV     2011_24B8_13E_820000   tv.cnn.png
+CNN International Europe                                                             TV     2011_24B8_13E_820000
 CNN International Europe                                                             TV     2BCB_1A90_FBFF_820000  tv.cnn.png
 CNN International Europe                                                             TV     6F6A_42C_1_C00000      tv.cnn.png
 CNN International Europe                                                             TV     7792_2C2_600_E080000
@@ -5701,7 +5701,7 @@ Télé Mélody                                                                  
 Télé Mélody                                                                          TV     2135_400_1_C00000      tv.telemelody.png
 Telenor Testcard                                                                     TV     388_1_46_E080000
 Telenova                                                                             TV     730_578_13E_82ACCE     tv.telenova.png
-TelePace                                                                             TV     BBF_20D0_13E_820000    tv.telepace.png
+TelePace                                                                             TV     BBF_20D0_13E_820000
 Tele Padre Pio                                                                       TV     132E_33F4_13E_820000   tv.teleradiopadrepiotv.png
 Telepiù Channel                                                                      TV     29D1_3CF0_13E_820000
 Tele San Marino                                                                      TV     1C55_1C20_13E_820000   tv.sanmarinotv.png
