@@ -1,4 +1,4 @@
-Generated: 2013-11-17 19:43:23
+Generated: 2013-11-17 20:06:58 for 13.0E - 19.2E - 23.5E - 28.2E
 
 Channels: 5097
 Channels without picons: 2023
@@ -9,7 +9,7 @@ Channels of type RADIO: 612
 Channels of type DATA: 123
 Channels of type UNKNOWN: 495
 
---------------------------------------------------------------------------
+--------------------------------
 
 0 NO NAME FOUND                                                DATA     F80_2_85_C00000
 0 NO NAME FOUND                                                RADIO    1A68_7FF_2_11A0000
