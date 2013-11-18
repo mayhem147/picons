@@ -1,4 +1,4 @@
-Generated: 2013-11-18 21:50:29
+Generated: 2013-11-18 22:45:54
 Update lamedb: 2013-11-18 21:43:58
 
 TOTAL: 3436/6510
@@ -908,7 +908,7 @@ GTV Global Tamil Vision                                                         
 Gute Laune TV                                                                                 TV      9.0E  4EF2_21FC_9C_5A0000    tv.gutelaunetv.png
 HBO 2 Central Europe                                                                          TV      9.0E  1AA4_1A90_9E_5A0000    tv.hbo2.png
 HBO Comedy Hungary & Czech                                                                    TV      9.0E  1AA5_1A90_9E_5A0000    tv.hbocomedy.png
-HBO Hungary                                                                                   TV      9.0E  1AA3_1A90_9E_5A0000    tv.hbo.png
+HBO Hungary                                                                                   TV      9.0E  1AA3_1A90_9E_5A0000
 HD CinemaOnDemand                                                                             TV      9.0E  435_5_AA_5A0000
 Hir TV                                                                                        TV      9.0E  1A95_1A90_9E_5A0000
 History Channel Eastern Europe                                                                TV      9.0E  1AA9_1A90_9E_5A0000    tv.history.png
@@ -3578,7 +3578,7 @@ CANAL+ HD                                                                       
 CANAL+ HD                                                                                     TV     19.2E  227F_438_1_C00000      tv.canal+hd-fr.png
 CANAL+ HD                                                                                     TV     19.2E  2289_438_1_C00000      tv.canal+hd-fr.png
 Canal Hollywood                                                                               TV     19.2E  77C1_40A_1_C00000      tv.canalhollywood.png
-Canal Hollywood HD                                                                            TV     19.2E  750C_420_1_C00000
+Canal Hollywood HD                                                                            TV     19.2E  750C_420_1_C00000      tv.canalhollywoodhd.png
 Canal J                                                                                       TV     19.2E  2589_458_1_C00000      tv.canalj.png
 Canal+ Liga                                                                                   TV     19.2E  7792_424_1_C00000      tv.canal+liga-es.png
 CANAL+ LIGA                                                                                   TV     19.2E  7793_424_1_C00000      tv.canal+liga-es.png
@@ -5078,7 +5078,7 @@ Cartoon Network                                                                 
 Cartoon Network                                                                               TV     28.2E  F1F_7EB_2_11A0000      tv.cartoonnetworkhd.png
 CBBC                                                                                          TV     28.2E  2870_800_2_11A0000     tv.cbbc.png
 CBeebies                                                                                      TV     28.2E  18AE_7FD_2_11A0000     tv.cbeebies.png
-CBeebies HD                                                                                   TV     28.2E  22E3_80D_2_11A0000     tv.bbcfourhd.png
+CBeebies HD                                                                                   TV     28.2E  22E3_80D_2_11A0000     tv.cbeebieshd.png
 CBS Action                                                                                    TV     28.2E  CB27_907_2_11A0000     tv.cbsaction.png
 CBS Drama                                                                                     TV     28.2E  C6D7_900_2_11A0000     tv.cbsdrama.png
 CBS Reality                                                                                   TV     28.2E  CFD5_909_2_11A0000     tv.cbsreality.png
