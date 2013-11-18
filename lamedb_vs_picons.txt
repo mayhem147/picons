@@ -1,11 +1,13 @@
-Generated: 2013-11-18 13:51:51 for 4.8E - 9.0E - 13.0E - 19.2E - 23.5E - 28.2E - 0.8W
+Generated: 2013-11-18 16:05:31 for 4.8E - 9.0E - 13.0E - 19.2E - 23.5E - 28.2E - 0.8W
 
-Channels: 6511
-Channels without picons: 3128
-Channels with picons: 3383
-Channels of type TV: 5502
-Channels of type RADIO: 1009
-Channels of type UNKNOWN: 0
+TOTAL: 6511
+
+TV: 5502
+RADIO: 1009
+UNKNOWN: 0
+
+WITHOUT picons: 3128
+WITH picons: 3383
 
 
 
