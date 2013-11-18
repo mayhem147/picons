@@ -1,4 +1,4 @@
-Generated: 2013-11-18 10:00:28 for 4.8E - 9.0E - 13.0E - 19.2E - 23.5E - 28.2E - 0.8W
+Generated: 2013-11-18 10:13:58 for 4.8E - 9.0E - 13.0E - 19.2E - 23.5E - 28.2E - 0.8W
 
 Channels: 6511
 Channels without picons: 3128
@@ -2672,7 +2672,7 @@ Erotic24.tv                                                                     
 EroticDome                                                                            TV     19.2E  3154_459_1_C00000
 EROTIKA TV - NEU!                                                                     TV     19.2E  315F_459_1_C00000
 Erotik Sat TV                                                                         TV     19.2E  314B_459_1_C00000      tv.erotiksat.png
-Erox HD                                                                               TV     23.5E  36E4_C8C_3_EB0000      tv.erox.png
+Erox HD                                                                               TV     23.5E  36E4_C8C_3_EB0000      tv.eroxhd.png
 EroXXX HD                                                                             TV     23.5E  36E7_C8C_3_EB0000      tv.eroxxx.png
 Escales                                                                               TV     13.0E  1CA_26AC_13F_820000    tv.escales.png
 Escales                                                                               TV     19.2E  4281_446_1_C00000      tv.escales.png
