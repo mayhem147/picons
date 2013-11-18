@@ -1,7 +1,8 @@
-Generated: 2013-11-18 21:30:19
+Generated: 2013-11-18 21:50:29
+Update lamedb: 2013-11-18 21:43:58
 
-TOTAL: 3436/6511
-TV: 3322/5502
+TOTAL: 3436/6510
+TV: 3322/5501
 RADIO: 114/1009
 UNKNOWN: 0/0
 
@@ -747,7 +748,6 @@ Wiesbaden PowerNet                                                              
 Αθήνα 984                                                                                     RADIO   9.0E  42B_6_AA_5A0000
 ΕΡΤ 3 ΜΑΚΕΔΟΝΙΑ                                                                               RADIO   9.0E  429_6_AA_5A0000
 ΠΕΙΡΑΙΚΗ ΕΚΚΛΗΣΙΑ                                                                             RADIO   9.0E  428_6_AA_5A0000
-.                                                                                             TV      9.0E  D9_14B4_9C_5A0000
 13th Street                                                                                   TV      9.0E  4E85_2134_9C_5A0000    tv.13thstreet.png
 13th Street Polska                                                                            TV      9.0E  488_1AF4_9E_5A0000
 4E Hellas Orthodox                                                                            TV      9.0E  3F4_2_AA_5A0000
@@ -4173,11 +4173,11 @@ Phoenix HD                                                                      
 Pink TV                                                                                       TV     19.2E  190A_3FA_1_C00000      tv.pinktv.png
 Piwi+                                                                                         TV     19.2E  2523_456_1_C00000      tv.piwi+.png
 Planet                                                                                        TV     19.2E  3251_45F_35_C00000     tv.planet-de.png
-Planète+                                                                                      TV     19.2E  2012_430_1_C00000      tv.planete+.png
+Planète+ A&E                                                                                  TV     19.2E  2012_430_1_C00000      tv.planete+.png
+Planète+ C.I.                                                                                 TV     19.2E  2077_432_1_C00000      tv.planete+nolimit.png
 PLANETE+ HD                                                                                   TV     19.2E  234B_442_1_C00000      tv.planete+hd.png
 Planète+ HD                                                                                   TV     19.2E  2337_442_1_C00000      tv.planete+hd.png
 Planète+ Justice                                                                              TV     19.2E  2588_458_1_C00000      tv.planete+justice.png
-Planète+ No Limit                                                                             TV     19.2E  2077_432_1_C00000      tv.planete+nolimit.png
 Planète+ Thalassa                                                                             TV     19.2E  2138_400_1_C00000      tv.planete+thalassa.png
 PLANETE+ THALASSA HD                                                                          TV     19.2E  1F4F_42E_1_C00000      tv.planete+thalassa.png
 Planète+ Thalassa HD                                                                          TV     19.2E  1F45_42E_1_C00000      tv.planete+thalassa.png
