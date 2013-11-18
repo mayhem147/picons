@@ -1,8 +1,8 @@
-Generated: 2013-11-18 09:40:53 for 4.8E - 9.0E - 13.0E - 19.2E - 23.5E - 28.2E - 0.8W
+Generated: 2013-11-18 10:00:28 for 4.8E - 9.0E - 13.0E - 19.2E - 23.5E - 28.2E - 0.8W
 
 Channels: 6511
-Channels without picons: 3104
-Channels with picons: 3407
+Channels without picons: 3128
+Channels with picons: 3383
 Channels of type TV: 5502
 Channels of type RADIO: 1009
 Channels of type UNKNOWN: 0
@@ -1018,38 +1018,38 @@ Zlote Przeboje                                                                  
 Αθήνα 984                                                                             RADIO  9.0E   42B_6_AA_5A0000
 ΕΡΤ 3 ΜΑΚΕΔΟΝΙΑ                                                                       RADIO  9.0E   429_6_AA_5A0000
 ΠΕΙΡΑΙΚΗ ΕΚΚΛΗΣΙΑ                                                                     RADIO  9.0E   428_6_AA_5A0000
-.                                                                                     TV     9.0E   D9_14B4_9C_5A0000      tv.sixx.png
+.                                                                                     TV     9.0E   D9_14B4_9C_5A0000
 0 NO NAME FOUND                                                                       TV     13.0E  1151_2AF8_13E_820000
 0 NO NAME FOUND                                                                       TV     13.0E  2916_1EDC_71_820000
 0 NO NAME FOUND                                                                       TV     13.0E  293D_1EDC_71_820000
-0 NO NAME FOUND                                                                       TV     13.0E  2954_1EDC_71_820000    tv.bluehustler.png
-0 NO NAME FOUND                                                                       TV     13.0E  2C37_251C_FBFF_820000  tv.classicahd.png
+0 NO NAME FOUND                                                                       TV     13.0E  2954_1EDC_71_820000
+0 NO NAME FOUND                                                                       TV     13.0E  2C37_251C_FBFF_820000
 0 NO NAME FOUND                                                                       TV     13.0E  2D68_2260_FBFF_820000
 0 NO NAME FOUND                                                                       TV     13.0E  32FC_190_13E_820000
 0 NO NAME FOUND                                                                       TV     13.0E  3784_44C_13E_820000
 0 NO NAME FOUND                                                                       TV     13.0E  37B1_44C_13E_820000
-0 NO NAME FOUND                                                                       TV     13.0E  4211_3DB8_13E_820000   tv.challenger.png
+0 NO NAME FOUND                                                                       TV     13.0E  4211_3DB8_13E_820000
 0 NO NAME FOUND                                                                       TV     13.0E  CE8_1518_13E_820000
-0 NO NAME FOUND                                                                       TV     13.0E  F8D_2198_FBFF_820000   tv.classicahd.png
+0 NO NAME FOUND                                                                       TV     13.0E  F8D_2198_FBFF_820000
 0 NO NAME FOUND                                                                       TV     13.0E  F8E_2198_FBFF_820000
 0 NO NAME FOUND                                                                       TV     19.2E  14B8_407_1_C00000
-0 NO NAME FOUND                                                                       TV     19.2E  1903_3FA_1_C00000      tv.nrjparis.png
-0 NO NAME FOUND                                                                       TV     19.2E  197D_44E_1_C00000      tv.serieclubhd.png
+0 NO NAME FOUND                                                                       TV     19.2E  1903_3FA_1_C00000
+0 NO NAME FOUND                                                                       TV     19.2E  197D_44E_1_C00000
 0 NO NAME FOUND                                                                       TV     19.2E  1989_44E_1_C00000
-0 NO NAME FOUND                                                                       TV     19.2E  1FA8_434_1_C00000      tv.cine+star.png
+0 NO NAME FOUND                                                                       TV     19.2E  1FA8_434_1_C00000
 0 NO NAME FOUND                                                                       TV     19.2E  2021_430_1_C00000
-0 NO NAME FOUND                                                                       TV     19.2E  2139_400_1_C00000      tv.espnclassic.png
+0 NO NAME FOUND                                                                       TV     19.2E  2139_400_1_C00000
 0 NO NAME FOUND                                                                       TV     19.2E  21A3_448_1_C00000
 0 NO NAME FOUND                                                                       TV     19.2E  21A7_448_1_C00000
 0 NO NAME FOUND                                                                       TV     19.2E  21B1_448_1_C00000
-0 NO NAME FOUND                                                                       TV     19.2E  233F_442_1_C00000      tv.nationalgeographichd.png
-0 NO NAME FOUND                                                                       TV     19.2E  2349_442_1_C00000      tv.eurosporthd.png
+0 NO NAME FOUND                                                                       TV     19.2E  233F_442_1_C00000
+0 NO NAME FOUND                                                                       TV     19.2E  2349_442_1_C00000
 0 NO NAME FOUND                                                                       TV     19.2E  2392_44A_1_C00000
 0 NO NAME FOUND                                                                       TV     19.2E  23D6_44A_1_C00000
-0 NO NAME FOUND                                                                       TV     19.2E  23EC_44A_1_C00000      tv.canalsatalademande.png
+0 NO NAME FOUND                                                                       TV     19.2E  23EC_44A_1_C00000
 0 NO NAME FOUND                                                                       TV     19.2E  2417_452_1_C00000
-0 NO NAME FOUND                                                                       TV     19.2E  246C_440_1_C00000      tv.artehd.png
-0 NO NAME FOUND                                                                       TV     19.2E  2480_440_1_C00000      tv.artehd.png
+0 NO NAME FOUND                                                                       TV     19.2E  246C_440_1_C00000
+0 NO NAME FOUND                                                                       TV     19.2E  2480_440_1_C00000
 0 NO NAME FOUND                                                                       TV     19.2E  7472_3F0_1_C00000
 0 NO NAME FOUND                                                                       TV     19.2E  7473_3F0_1_C00000
 0 NO NAME FOUND                                                                       TV     19.2E  7474_3F0_1_C00000
@@ -1077,9 +1077,9 @@ Zlote Przeboje                                                                  
 0 NO NAME FOUND                                                                       TV     19.2E  75F6_422_1_C00000
 0 NO NAME FOUND                                                                       TV     19.2E  75FD_408_1_C00000
 0 NO NAME FOUND                                                                       TV     19.2E  7608_408_1_C00000
-0 NO NAME FOUND                                                                       TV     19.2E  760C_408_1_C00000      tv.tcmautor.png
-0 NO NAME FOUND                                                                       TV     19.2E  7696_41E_1_C00000      tv.cartoonnetwork.png
-0 NO NAME FOUND                                                                       TV     19.2E  7699_41E_1_C00000      tv.cartoonito.png
+0 NO NAME FOUND                                                                       TV     19.2E  760C_408_1_C00000
+0 NO NAME FOUND                                                                       TV     19.2E  7696_41E_1_C00000
+0 NO NAME FOUND                                                                       TV     19.2E  7699_41E_1_C00000
 0 NO NAME FOUND                                                                       TV     19.2E  7788_424_1_C00000
 0 NO NAME FOUND                                                                       TV     19.2E  778C_424_1_C00000
 0 NO NAME FOUND                                                                       TV     19.2E  7798_424_1_C00000
@@ -1087,14 +1087,14 @@ Zlote Przeboje                                                                  
 0 NO NAME FOUND                                                                       TV     28.2E  11B1_7E9_2_11A0000
 0 NO NAME FOUND                                                                       TV     28.2E  120C_807_2_11A0000
 0 NO NAME FOUND                                                                       TV     28.2E  12DC_7D2_2_11A0000
-0 NO NAME FOUND                                                                       TV     28.2E  12DD_7EF_2_11A0000     tv.skymoviesboxoffice-gb.png
-0 NO NAME FOUND                                                                       TV     28.2E  12DE_7EF_2_11A0000     tv.skymoviesboxoffice-gb.png
-0 NO NAME FOUND                                                                       TV     28.2E  133E_7EF_2_11A0000     tv.skymoviesboxoffice-gb.png
+0 NO NAME FOUND                                                                       TV     28.2E  12DD_7EF_2_11A0000
+0 NO NAME FOUND                                                                       TV     28.2E  12DE_7EF_2_11A0000
+0 NO NAME FOUND                                                                       TV     28.2E  133E_7EF_2_11A0000
 0 NO NAME FOUND                                                                       TV     28.2E  586_7DB_2_11A0000
-0 NO NAME FOUND                                                                       TV     28.2E  F36_7E9_2_11A0000      tv.skyanytime-gb.png
-0 NO NAME FOUND                                                                       TV     28.2E  F37_7E9_2_11A0000      tv.skyanytime-gb.png
-0 NO NAME FOUND                                                                       TV     28.2E  F39_7F7_2_11A0000      tv.skyanytimehd-gb.png
-0 NO NAME FOUND                                                                       TV     28.2E  F3A_7F3_2_11A0000      tv.skyanytimehd-gb.png
+0 NO NAME FOUND                                                                       TV     28.2E  F36_7E9_2_11A0000
+0 NO NAME FOUND                                                                       TV     28.2E  F37_7E9_2_11A0000
+0 NO NAME FOUND                                                                       TV     28.2E  F39_7F7_2_11A0000
+0 NO NAME FOUND                                                                       TV     28.2E  F3A_7F3_2_11A0000
 0 NO NAME FOUND                                                                       TV     4.8E   4269_1C_56_300000
 .1.                                                                                   TV     19.2E  126E_3F7_1_C00000
 1+1 International                                                                     TV     13.0E  34D2_3C28_13E_820000
