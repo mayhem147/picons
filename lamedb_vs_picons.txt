@@ -1,4 +1,4 @@
-Generated: 2013-11-18 10:41:19 for 4.8E - 9.0E - 13.0E - 19.2E - 23.5E - 28.2E - 0.8W
+Generated: 2013-11-18 10:54:48 for 4.8E - 9.0E - 13.0E - 19.2E - 23.5E - 28.2E - 0.8W
 
 Channels: 6511
 Channels without picons: 3128
@@ -1355,7 +1355,7 @@ Animal Planet HD                                                                
 Animal Planet HD                                                                      TV     0.8W   EE7_26_46_E080000
 Animal Planet HD                                                                      TV     13.0E  3B66_12C_13E_820000    tv.animalplanethd.png
 Animal Planet HD                                                                      TV     28.2E  F41_7D3_2_11A0000      tv.animalplanethd.png
-Animal Planet HD                                                                      TV     9.0E   C_170C_9E_5A0000       tv.tracetropical.png
+Animal Planet HD                                                                      TV     9.0E   C_170C_9E_5A0000       tv.animalplanethd.png
 Animal Planet HD Czech                                                                TV     0.8W   A2B_2_5E_E08B00F
 Animal Planet HD Hungarian                                                            TV     0.8W   A2D_2_5E_E08B00F
 Animal Planet HD Polish                                                               TV     0.8W   A29_2_5E_E08B00F
