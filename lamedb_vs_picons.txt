@@ -1,8 +1,8 @@
-Generated: 2013-11-18 08:57:38 for 4.8E - 9.0E - 13.0E - 19.2E - 23.5E - 28.2E - 0.8W
+Generated: 2013-11-18 09:40:53 for 4.8E - 9.0E - 13.0E - 19.2E - 23.5E - 28.2E - 0.8W
 
 Channels: 6511
-Channels without picons: 3114
-Channels with picons: 3397
+Channels without picons: 3104
+Channels with picons: 3407
 Channels of type TV: 5502
 Channels of type RADIO: 1009
 Channels of type UNKNOWN: 0
@@ -5666,11 +5666,11 @@ Taraf TV                                                                        
 TBNE Italy (Trinity Broadcasting Network)                                             TV     13.0E  323_3BC4_13E_820000    tv.tbnitaly.png
 TBN Enlace                                                                            TV     19.2E  7A49_410_1_C00000      tv.tbnenlace.png
 TBN Europe(Trinity Broadcasting Network)                                              TV     13.0E  321_3BC4_13E_820000    tv.tbneurope.png
-TBN Europe(Trinity Broadcasting Network)                                              TV     28.2E  CB9C_8FE_2_11A0000     28.0E
+TBN Europe(Trinity Broadcasting Network)                                              TV     28.2E  CB9C_8FE_2_11A0000     tv.tbneurope.png
 TBN Russia                                                                            TV     13.0E  327_3BC4_13E_820000    tv.tbnrussia.png
 TCM +1 UK                                                                             TV     28.2E  CBCF_8FD_2_11A0000     tv.tcmplus1.png
-TCM/Cartoon NL                                                                        TV     4.8E   9C_FFFF_FFFF_30300F
-TCM/Cartoon Russian                                                                   TV     4.8E   100_FFFF_FFFF_30300F
+TCM/Cartoon NL                                                                        TV     4.8E   9C_FFFF_FFFF_30300F    tv.cartoonnetwork_tcm.png
+TCM/Cartoon Russian                                                                   TV     4.8E   100_FFFF_FFFF_30300F   tv.cartoonnetwork_tcm.png
 TCM CINEMA HD                                                                         TV     19.2E  26C2_43E_1_C00000      tv.tcmcinemahd.png
 TCM France                                                                            TV     19.2E  6F6D_42C_1_C00000      tv.tcm.png
 TCM HD                                                                                TV     19.2E  7633_408_1_C00000      tv.tcmhd.png
@@ -5680,7 +5680,7 @@ TCM HD France                                                                   
 TCM HD Spain                                                                          TV     19.2E  788A_414_1_C00000      tv.tcmhd.png
 TCM HD UK                                                                             TV     28.2E  F42_7EB_2_11A0000      tv.tcmhd.png
 TCM Moderno                                                                           TV     19.2E  76C7_40E_1_C00000      tv.tcm.png
-TCM Nordic                                                                            TV     0.8W   191_2_46_E080000
+TCM Nordic                                                                            TV     0.8W   191_2_46_E080000       tv.tcm.png
 TCM - Turner Classic Movies                                                           TV     28.2E  1796_807_2_11A0000     tv.tcm.png
 TEF Channel                                                                           TV     13.0E  2463_23F0_13F_820000   tv.tefchannel.png
 Tele 5                                                                                TV     19.2E  33_21_85_C00000        tv.tele5.png
@@ -5692,9 +5692,9 @@ Telecinco                                                                       
 Telecolore                                                                            TV     13.0E  712_578_13E_82ACCE     tv.telecolore.png
 Teledeporte                                                                           TV     19.2E  76CC_40E_1_C00000      tv.teledeporte.png
 Telefonchat TV                                                                        TV     19.2E  129B_3F7_1_C00000
-Teleippica 1                                                                          TV     23.5E  1485_C98_3_EB0000      tv.uniresat.png
+Teleippica 1                                                                          TV     23.5E  1485_C98_3_EB0000
 Teleippica 2                                                                          TV     23.5E  1486_C98_3_EB0000
-TeleItalia|  Promo                                                                    TV     13.0E  35C4_1388_13E_820000   tv.sct.png
+TeleItalia|  Promo                                                                    TV     13.0E  35C4_1388_13E_820000
 Telekanal 100                                                                         TV     4.8E   19AA_F_55_300000
 Telemarket 2                                                                          TV     13.0E  2CC_1B58_13E_820000
 Télé Mélody                                                                           TV     13.0E  1FB7_2454_13E_820000
@@ -5759,7 +5759,7 @@ TF1                                                                             
 TF 1                                                                                  TV     13.0E  12D_3E1C_13F_820000    tv.tf1hd.png
 TF 1                                                                                  TV     19.2E  2206_44C_1_C00000      tv.tf1.png
 TF 1                                                                                  TV     19.2E  2329_442_1_C00000      tv.tf1hd.png
-TF 1                                                                                  TV     9.0E   8_19C8_9E_5A0000       tv.natgeowild.png
+TF 1                                                                                  TV     9.0E   8_19C8_9E_5A0000
 TF1 HD                                                                                TV     19.2E  233D_442_1_C00000      tv.tf1hd.png
 TF1 HD                                                                                TV     19.2E  2351_442_1_C00000      tv.tf1hd.png
 TF 1|  | Version pour la Suisse                                                       TV     9.0E   12E_19C8_9E_5A0000     tv.tf1.png
@@ -5788,7 +5788,7 @@ The Pub Channel                                                                 
 The Vault                                                                             TV     28.2E  D06B_90A_2_11A0000     tv.thevault.png
 The Word Network                                                                      TV     13.0E  43DD_2CEC_13E_820000   tv.thewordnetwork.png
 The Word Network                                                                      TV     28.2E  D115_90C_2_11A0000     tv.thewordnetwork.png
-Ticket 1                                                                              TV     4.8E   1784_8_56_300000       tv.privatespice.png
+Ticket 1                                                                              TV     4.8E   1784_8_56_300000
 TiJi                                                                                  TV     19.2E  21B2_448_1_C00000      tv.tiji.png
 Tik TV                                                                                TV     13.0E  44E4_258_13E_820000
 TIN - The Israeli Network                                                             TV     9.0E   C_1770_64_5A0000
@@ -5849,8 +5849,8 @@ TNT Serie                                                                       
 TNT Serie HD                                                                          TV     19.2E  7B_B_85_C00000         tv.tntseriehd.png
 TNT (Spain)                                                                           TV     19.2E  77C9_40A_1_C00000      tv.tnt.png
 Toonami I                                                                             TV     28.2E  1BC4_7E2_2_11A0000     tv.toonami.png
-TOPcrime                                                                              TV     13.0E  866_389_110_820000
-TOPcrime                                                                              TV     13.0E  866_389_110_82AE8F
+TOPcrime                                                                              TV     13.0E  866_389_110_820000     tv.topcrime.png
+TOPcrime                                                                              TV     13.0E  866_389_110_82AE8F     tv.topcrime.png
 TOPcrime                                                                              TV     13.0E  C_3DE_110_820000       tv.topcrime.png
 Toto TV (MaxiSat)                                                                     TV     0.8W   B5D_40_46_E080000
 Toute l´Histoire                                                                      TV     13.0E  1CB_26AC_13F_820000    tv.toutelhistoire.png
@@ -5862,21 +5862,21 @@ Trace Sports Stars HD                                                           
 Trace Tropical                                                                        TV     19.2E  22C5_45A_1_C00000      tv.tracetropical.png
 Trace Urban                                                                           TV     13.0E  13F1_5DC_13E_820000    tv.traceurban.png
 Trace Urban                                                                           TV     19.2E  2400_452_1_C00000      tv.traceurban.png
-Trace Urban International HD                                                          TV     0.8W   1B93_26_46_E080000
+Trace Urban International HD                                                          TV     0.8W   1B93_26_46_E080000     tv.traceurban.png
 Trace Urban International HD                                                          TV     9.0E   F_170C_9E_5A0000       tv.traceurban.png
 Transilvania Look                                                                     TV     0.8W   413_3_1111_E08B0A8
-Travel Channel                                                                        TV     0.8W   79E5_2C8_600_E080000
+Travel Channel                                                                        TV     0.8W   79E5_2C8_600_E080000   tv.travelchannel.png
 Travel Channel                                                                        TV     13.0E  169_1C84_13E_820000    tv.makedonia.png
 Travel Channel                                                                        TV     13.0E  1D97_2F44_13E_820000   tv.travelchannel.png
 Travel Channel                                                                        TV     13.0E  2918_1EDC_71_820000    tv.travelchannel.png
 Travel Channel                                                                        TV     28.2E  D356_81C_2_11A0000     tv.travelchannel.png
-Travel Channel                                                                        TV     4.8E   11F_1_1_302F4F
+Travel Channel                                                                        TV     4.8E   11F_1_1_302F4F         tv.travelchannel.png
 Travel Channel                                                                        TV     9.0E   26B_206C_9C_5A0000     tv.travelchannel.png
 Travel Channel +1                                                                     TV     28.2E  CB84_8FD_2_11A0000     tv.travelchannelplus1.png
 Travel Channel CDUPC                                                                  TV     23.5E  13C1_C95_3_EB0000      tv.travelchannel.png
-Travel Channel HD                                                                     TV     0.8W   424_29_46_E080000
+Travel Channel HD                                                                     TV     0.8W   424_29_46_E080000      tv.travelchannelhd.png
 Travel Channel HD                                                                     TV     23.5E  13B8_C95_3_EB0000      tv.travelchannelhd.png
-Travel Channel HD                                                                     TV     9.0E   40D_6_AA_5A0000
+Travel Channel HD                                                                     TV     9.0E   40D_6_AA_5A0000        tv.travelchannelhd.png
 Travel Channel HD EE                                                                  TV     23.5E  13C8_C95_3_EB0000      tv.travelchannelhd.png
 Travel Channel HD WE                                                                  TV     23.5E  13C0_C95_3_EB0000      tv.travelchannelhd.png
 Travel & Living Balkans                                                               TV     4.8E   320_1_5E_30B022
@@ -5884,13 +5884,13 @@ Trinitas TV                                                                     
 Tristar                                                                               TV     28.2E  D39F_81C_2_11A0000     tv.tristar.png
 TRSP                                                                                  TV     13.0E  133D_33F4_13E_820000   tv.trsp.png
 TRT Belgesel                                                                          TV     13.0E  1CC_1964_13E_820000    tv.trtbelgesel.png
-TRT Türk                                                                              TV     13.0E  6B0_3138_13E_820000
+TRT Türk                                                                              TV     13.0E  6B0_3138_13E_820000    tv.trtturk.png
 TRT Türk                                                                              TV     19.2E  13F9_403_1_C00000      tv.trtturk.png
-TRT Türk                                                                              TV     9.0E   60E_1FA4_9C_5A0000
+TRT Türk                                                                              TV     9.0E   60E_1FA4_9C_5A0000     tv.trtturk.png
 True Christmas                                                                        TV     28.2E  D048_90A_2_11A0000     tv.truemovies1.png
 True Drama                                                                            TV     28.2E  D084_90A_2_11A0000     tv.truedrama.png
 True Entertainment                                                                    TV     28.2E  D07F_90A_2_11A0000     tv.trueentertainment.png
-True Movies 1                                                                         TV     4.8E   C9_FFFF_FFFF_30300F
+True Movies 1                                                                         TV     4.8E   C9_FFFF_FFFF_30300F    tv.truemovies1.png
 True Movies 2                                                                         TV     28.2E  D04D_90A_2_11A0000     tv.truemovies2.png
 Truth TV                                                                              TV     13.0E  11FA_2B5C_13E_820000
 TRWAM                                                                                 TV     19.2E  10D6_418_1_C00000      tv.trwam.png
@@ -5989,7 +5989,7 @@ TV 2 Zebra                                                                      
 TV 2 Zulu                                                                             TV     0.8W   263_1C_46_E080000
 TV 2 Zulu                                                                             TV     4.8E   712_1E_56_300000       tv.tv2zulu.png
 TV 3 Danmark                                                                          TV     0.8W   1840_3E_46_E080000
-TV 3 Danmark                                                                          TV     4.8E   460_3_56_300000        tv.viasat3.png
+TV 3 Danmark                                                                          TV     4.8E   460_3_56_300000
 TV 3 Estonia                                                                          TV     4.8E   18BA_E_55_300000       tv.tv3latvia.png
 TV3+ HD                                                                               TV     4.8E   65E_1B_56_300000       tv.tv3+hddk.png
 TV 3 HD Denmark                                                                       TV     4.8E   A5A_22_56_300000
@@ -6071,13 +6071,13 @@ TV Centr International                                                          
 TV Chile                                                                              TV     4.8E   FA0_6_56_300000        tv.tvchile.png
 TVC News                                                                              TV     28.2E  D7EB_822_2_11A0000     tv.tvcnews.png
 TV Coran                                                                              TV     13.0E  6A5_3138_13E_820000
-TV Doma                                                                               TV     0.8W   4B0_8_1_E08B18F
-TV Doma                                                                               TV     0.8W   759E_2BD_600_E080000
+TV Doma                                                                               TV     0.8W   4B0_8_1_E08B18F        tv.domatv-hr.png
+TV Doma                                                                               TV     0.8W   759E_2BD_600_E080000   tv.domatv-hr.png
 TV Doma                                                                               TV     23.5E  13F0_C87_3_EB0000      tv.domatv-hr.png
 TV Drenthe                                                                            TV     23.5E  514C_C8B_3_EB0000      tv.tvdrenthe.png
 TVE International                                                                     TV     13.0E  358E_1388_13E_820000   tv.tveinternacional.png
-TV Fanda                                                                              TV     0.8W   785A_2C4_600_E080000
-TV Fanda                                                                              TV     0.8W   CD0_A_1_E08B113
+TV Fanda                                                                              TV     0.8W   785A_2C4_600_E080000   tv.fanda.png
+TV Fanda                                                                              TV     0.8W   CD0_A_1_E08B113        tv.fanda.png
 TV Fanda                                                                              TV     23.5E  36F8_C8E_3_EB0000      tv.fanda.png
 TV Galicia                                                                            TV     19.2E  7A4A_410_1_C00000      tv.tvgalicia.png
 TV Gelderland                                                                         TV     23.5E  5150_C8B_3_EB0000      tv.omroepgelderland.png
@@ -6092,7 +6092,7 @@ TV Lux                                                                          
 TV Moda                                                                               TV     13.0E  313_1B58_13E_820000    tv.classtvmoda.png
 TVN                                                                                   TV     13.0E  10D7_3E8_13E_820000
 TVN 24                                                                                TV     13.0E  10D8_3E8_13E_820000    tv.tvn24.png
-TVN 24_                                                                               TV     13.0E  10F6_3E8_13E_820000
+TVN 24_                                                                               TV     13.0E  10F6_3E8_13E_820000    tv.tvn24.png
 TVN 24 HD                                                                             TV     13.0E  3DD2_640_13E_820000    tv.tvn24hd.png
 TVN 7 HD                                                                              TV     13.0E  3DD3_640_13E_820000    tv.tvn7hd.png
 TVN CNBC                                                                              TV     13.0E  10E2_3E8_13E_820000    tv.tvncnbcbiznes.png
@@ -6137,12 +6137,12 @@ TV Paprika Romania                                                              
 TVP HD                                                                                TV     13.0E  3B62_12C_13E_820000    tv.tvphd.png
 TVP HD                                                                                TV     19.2E  1BD0_423_1_C00000      tv.tvphd.png
 TVP Historia                                                                          TV     13.0E  DC4_2D50_13E_820000    tv.tvphistoria.png
-TVP Historia                                                                          TV     13.0E  DC5_2D50_13E_820000    tv.mtvrocks.png
+TVP Historia                                                                          TV     13.0E  DC5_2D50_13E_820000    tv.tvphistoria.png
 TVP Historia                                                                          TV     19.2E  1BC1_423_1_C00000      tv.tvphistoria.png
 TVP Info                                                                              TV     13.0E  13F6_5DC_13E_820000    tv.tvpinfo.png
 TVP Info                                                                              TV     19.2E  1BBE_423_1_C00000      tv.tvpinfo.png
 TVP Kultura                                                                           TV     13.0E  13F9_5DC_13E_820000    tv.tvpkultura.png
-TVP Kultura                                                                           TV     13.0E  1417_5DC_13E_820000
+TVP Kultura                                                                           TV     13.0E  1417_5DC_13E_820000    tv.tvpkultura.png
 TVP Kultura                                                                           TV     19.2E  1BC2_423_1_C00000      tv.tvpkultura.png
 TV Polonia                                                                            TV     13.0E  13ED_5DC_13E_820000    tv.tvppolonia.png
 TV Polonia                                                                            TV     19.2E  1BC0_423_1_C00000      tv.tvppolonia.png
@@ -6176,14 +6176,14 @@ TV Sonce                                                                        
 TV SRI                                                                                TV     13.0E  1CA7_332C_13E_820000
 TVS - TV Silesia                                                                      TV     13.0E  13EE_5DC_13E_820000    tv.tvsilesia.png
 TVSudEst                                                                              TV     0.8W   2B01_B_1111_E082F3C
-TVT 2                                                                                 TV     9.0E   DB6_16A8_9C_5A0000     tv.nationalgeographichd.png
+TVT 2                                                                                 TV     9.0E   DB6_16A8_9C_5A0000
 TV Tamazight                                                                          TV     13.0E  6A6_3138_13E_820000
 TV Verdade                                                                            TV     13.0E  43BA_2CEC_13E_820000   tv.tvverdade.png
 TV Warehouse                                                                          TV     28.2E  D3A4_81C_2_11A0000     tv.tvwarehouse.png
 TV West                                                                               TV     23.5E  5144_C8B_3_EB0000      tv.omroepwest.png
 TVX Brits                                                                             TV     28.2E  D7CC_822_2_11A0000     tv.televisionxbrits.png
 TV XXI                                                                                TV     4.8E   A8C_18_44_300000
-UBC                                                                                   TV     4.8E   19B4_F_55_300000       tv.business.png
+UBC                                                                                   TV     4.8E   19B4_F_55_300000
 UCB TV                                                                                TV     28.2E  CB21_907_2_11A0000     tv.ucbtv.png
 Ukraina Telekanal                                                                     TV     4.8E   19D2_10_55_300000
 Ukraina Telekanal                                                                     TV     4.8E   19DC_10_55_300000
@@ -6209,7 +6209,7 @@ Universal CZECH-SLOVAK                                                          
 Universal Eastern Europe                                                              TV     0.8W   DDE_C_1_E082E7C
 Universal Eastern Europe                                                              TV     13.0E  3A35_1FA4_13E_820000   tv.universalchannel.png
 Universal HD Germany                                                                  TV     19.2E  65_E_85_C00000         tv.universalchannelhd.png
-Universal HD Poland                                                                   TV     13.0E  3E20_2EE0_13E_820000   tv.travelchannel.png
+Universal HD Poland                                                                   TV     13.0E  3E20_2EE0_13E_820000   tv.universalchannelhd.png
 Universal HD UK                                                                       TV     28.2E  F28_7F3_2_11A0000      tv.universalchannelhd.png
 Universal HUNGARY                                                                     TV     4.8E   1F6_FFFF_FFFF_30300F
 Universal HUNGARY                                                                     TV     4.8E   26D_FFFF_FFFF_30300F
@@ -6217,7 +6217,7 @@ Universal HUNGARY                                                               
 UNIVERSAL POL                                                                         TV     13.0E  3A3F_1FA4_13E_820000   tv.universalchannel.png
 Universal Polska                                                                      TV     13.0E  1_2BC_13E_822C46
 Universal Somali TV                                                                   TV     13.0E  335_3BC4_13E_820000
-Universal Somali TV                                                                   TV     13.0E  44E3_258_13E_820000    tv.worldfashionchannel.png
+Universal Somali TV                                                                   TV     13.0E  44E3_258_13E_820000
 Uomo partita                                                                          TV     13.0E  1C3B_206C_FBFF_820000
 U (Romania)                                                                           TV     0.8W   3F3_1_1_E08318F
 Usadba Telekanal                                                                      TV     4.8E   9EC_18_44_300000
@@ -6229,7 +6229,7 @@ UTV HD                                                                          
 UTV (Ulster)                                                                          TV     28.2E  27F6_806_2_11A0000     tv.utv.png
 VBC TEMP                                                                              TV     4.8E   4_65_1_303082
 V Channel                                                                             TV     28.2E  C4F9_81B_2_11A0000     tv.vchannel.png
-Velayat TV                                                                            TV     13.0E  1D2F_2FA8_13E_820000   tv.sat7kids.png
+Velayat TV                                                                            TV     13.0E  1D2F_2FA8_13E_820000
 VenetoLink                                                                            TV     13.0E  29A6_3D54_13E_820000
 VENETO LINK                                                                           TV     13.0E  73A_578_13E_82ACCE
 Venus                                                                                 TV     28.2E  C6C4_820_2_11A0000     tv.venustv.png
