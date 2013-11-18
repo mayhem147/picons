@@ -1,4 +1,4 @@
-Generated: 2013-11-18 10:13:58 for 4.8E - 9.0E - 13.0E - 19.2E - 23.5E - 28.2E - 0.8W
+Generated: 2013-11-18 10:41:19 for 4.8E - 9.0E - 13.0E - 19.2E - 23.5E - 28.2E - 0.8W
 
 Channels: 6511
 Channels without picons: 3128
